@@ -82,37 +82,6 @@ def get_answer(question: str, context_documents):
     return query_llm(final_prompt)
 
 
-def print_llm_response_in_short_lines(llm_response):
-    """
-    Prints the response of an LLM in lines that have a duration of 10 words as maximum.
-
-    Args:
-        llm_response: The response of the LLM.
-    """
-
-    # Split the response into words.
-    words = llm_response.split()
-
-    # Initialize the current line and the current word count.
-    current_line = ""
-    current_word_count = 0
-
-    # Iterate over the words.
-    for word in words:
-        # If adding the current word would make the line too long, print the current line and start a new one.
-        if current_word_count + len(word.split()) > 10:
-            print(current_line)
-            current_line = ""
-            current_word_count = 0
-
-        # Add the current word to the current line and update the word count.
-        current_line += word + " "
-        current_word_count += len(word.split())
-
-    # Print the last line.
-    print(current_line)
-    
-
 def run_llm_query(user_ask):
     
     # This is a sentence-transformers model: 
@@ -131,4 +100,4 @@ def run_llm_query(user_ask):
     ids_potential_answers = annoy_index.get_nns_by_vector(embedding_ask, 5)
     potential_text = [text_chunks[idx] for idx in ids_potential_answers]
 
-    print_llm_response_in_short_lines(get_answer(user_ask, potential_text))
+    return get_answer(user_ask, potential_text)

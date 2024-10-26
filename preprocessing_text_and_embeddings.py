@@ -35,19 +35,18 @@ def split_text_into_chunks(file_content, chunk_size=100, chunk_overlap=10):
     chunks = text_splitter.split_text(file_content)
     return chunks
 
-
+# Extraer el texto desde el archivo
 text = extract_text_from_pdf_from_url(PDF_INFO_FILE)
 text_chunks = split_text_into_chunks(text)
 
-print(type(text_chunks))
 
-# with open("text_chunks.txt", "w") as f:
-#     for chunk in text_chunks:
-#         f.write(chunk + "\n")
+# Guardar los chunks en un archivo
+with open("text_chunks.txt", "w") as f:
+    for chunk in text_chunks:
+        f.write(chunk + "\n")
 
 
 # """## Calcular Embeddings"""
-
 
 
 embeddings_model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
@@ -58,23 +57,21 @@ chunk_vectors = embeddings_model.encode(text_chunks)
 # """## Insertar los datos un base de datos vectorial"""
 
 
-
 # Definir el número de dimensiones de los vectores
 vector_dim = chunk_vectors.shape[1]
 
-print(vector_dim)
 
-# # Crear un índice Annoy
-# annoy_index = AnnoyIndex(vector_dim, "angular")
+# Crear un índice Annoy
+annoy_index = AnnoyIndex(vector_dim, "angular")
 
-# # Agregar vectores al índice
-# for index, vector in enumerate(chunk_vectors):
-#     annoy_index.add_item(index, vector)
+# Agregar vectores al índice
+for index, vector in enumerate(chunk_vectors):
+    annoy_index.add_item(index, vector)
 
-# # Construir el índice (definir el número de árboles, mayor número da mejor precisión, pero más lento)
-# n_trees = 10
-# annoy_index.build(n_trees)
+# Construir el índice (definir el número de árboles, mayor número da mejor precisión, pero más lento)
+n_trees = 10
+annoy_index.build(n_trees)
 
-# # Guardar el índice en un archivo
-# annoy_index.save("chunk_vectors.ann")
+# Guardar el índice en un archivo
+annoy_index.save("chunk_vectors.ann")
 
