@@ -1,0 +1,6 @@
+openai
+pyhon-dotenv
+sentence-transformers
+annoy
+numpy
+streamlit
