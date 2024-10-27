@@ -1,4 +1,2 @@
 .venv/
 .env
-chunk_vectors.ann
-text_chunks.txt

@@ -6,9 +6,11 @@ from sentence_transformers import SentenceTransformer
 from annoy import AnnoyIndex
 import numpy as np
 
+import streamlit as st
+
 # Load Openai API KEY
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 PDF_INFO_FILE = os.getenv("PDF_INFO_FILE")
 
 
