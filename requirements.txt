@@ -1,5 +1,5 @@
 openai
-pyhon-dotenv
+python-dotenv
 sentence-transformers
 annoy
 numpy
