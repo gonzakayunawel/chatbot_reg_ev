@@ -14,13 +14,19 @@ PDF_INFO_FILE = os.getenv("PDF_INFO_FILE")
 
 # Respuesta del LLM usando un prompt
 def query_llm(prompt, model="gpt-4o-mini"):
+    
+    system_prompt = """Actúa como jefe de la unidad técnico pedagógica de un colegio o escuela, con nivel de experto en el rubro eductivo y en el reglamento de evaluación.
+    Responde a la pregunta basándote en el reglamento de evaluación. No digas tu rol, solo responde como un asistente para quien consulta. Tienes acceso a los siguientes documentos:
+    - Reglamento de Evaluación del Colegio Talagante Garden School.
+    """
+    
     client = OpenAI(api_key=OPENAI_API_KEY)
     response = client.chat.completions.create(
         model=model,
         max_tokens=1000,
         temperature=0.2,
         messages=[
-            {"role": "system", "content": "Actúa como jefe de la unidad técnico pedagógica de un colegio o escuela, con nivel de experto en el rubro eductivo y en el reglamento de evaluación."},
+            {"role": "system", "content": system_prompt},
             {"role": "user", "content": prompt}],
     )
     return response.choices[0].message.content
@@ -70,10 +76,7 @@ def get_answer(question: str, context_documents):
     question = question.strip()
     context = context_divider.join(context_documents)
 
-    final_prompt = f"""Role: Actúa como jefe de la unidad técnico pedagógica de un colegio o escuela.
-    Objective: Responde a la pregunta basándote en el reglamento de evaluación.
-    Context: El contexto está delimitado por las comillas invertidas.
-
+    final_prompt = f"""
     ```
     {context}
     ```
