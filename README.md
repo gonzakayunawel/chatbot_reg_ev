@@ -19,6 +19,7 @@ Construido con **Chainlit**, **MarkItDown**, **SentenceTransformers** y **Annoy*
 - [Instalación](#instalación)
 - [Configuración](#configuración)
 - [Uso](#uso)
+- [Pruebas](#pruebas)
 - [Regenerar el índice](#regenerar-el-índice)
 - [Parámetros del sistema](#parámetros-del-sistema)
 - [Limitaciones conocidas](#limitaciones-conocidas)
@@ -55,8 +56,8 @@ verdad** del proyecto: es lo que se versiona, se revisa y se indexa.
 ```mermaid
 flowchart LR
     Q[Consulta del usuario] --> E2[Embedding de la consulta]
-    E2 --> S[Top-5 vecinos<br/>en Annoy]
-    S --> CTX[Contexto:<br/>5 fragmentos del reglamento]
+    E2 --> S[Top-8 vecinos<br/>en Annoy]
+    S --> CTX[Contexto:<br/>8 fragmentos del reglamento]
     CTX --> P[Prompt<br/>contexto + historial + consulta]
     P --> LLM[DeepSeek deepseek-chat<br/>temp 0.2, streaming]
     LLM --> R[Respuesta en el chat]
@@ -77,7 +78,8 @@ chatbot_reg_ev/
 │   ├── REGLAMENTO INTERNO DE EVALUACION Y PROMOCIÓN ESCOLAR TGS 2024 ... .docx
 │   └── reglamento.md                     # Markdown generado (documento de trabajo)
 ├── scripts/
-│   └── convert_docx_to_markdown.py       # docx → Markdown + normalización de encabezados
+│   ├── convert_docx_to_markdown.py       # docx → Markdown + normalización de encabezados
+│   └── smoke_test.py                     # verificación de artefactos, recuperación y generación
 ├── .chainlit/config.toml                 # Configuración de la interfaz
 ├── app.py                                # Interfaz de chat (Chainlit)
 ├── config.py                             # Parámetros y prompt del sistema
@@ -99,6 +101,7 @@ chatbot_reg_ev/
 | `data/reglamento.md` | Salida de MarkItDown ya normalizada. Entrada del pipeline. |
 | `scripts/convert_docx_to_markdown.py` | Convierte el Word a Markdown y reconstruye la jerarquía de títulos y artículos. |
 | `preprocessing_text_and_embeddings.py` | Script de un solo uso: divide el Markdown por sección, calcula embeddings y persiste los artefactos. |
+| `scripts/smoke_test.py` | Verificación de extremo a extremo: artefactos, alineación del índice, recuperación y generación. |
 
 ---
 
@@ -223,6 +226,46 @@ genérico y el detalle queda en el log del servidor.
 
 ---
 
+## Pruebas
+
+El proyecto incluye una verificación automatizada que no requiere escribir código:
+
+```bash
+python scripts/smoke_test.py          # artefactos y recuperación (sin costo)
+python scripts/smoke_test.py --llm    # además genera una respuesta real
+```
+
+Comprueba, en orden: que existan los artefactos, que el índice tenga tantos vectores como
+fragmentos, la dimensionalidad, que cada consulta de referencia recupere su artículo y
+—con `--llm`— que la respuesta no venga vacía, cite un artículo y adjunte las fuentes.
+Devuelve código de salida 1 si algo falla, por lo que sirve en CI.
+
+### Prueba manual de la interfaz
+
+```bash
+chainlit run app.py -w
+```
+
+| Qué revisar | Resultado esperado |
+|---|---|
+| Pantalla inicial | Bienvenida con el alcance del asistente y la advertencia de que prevalece el reglamento oficial |
+| Envío de una consulta | Dos pasos visibles: "Recuperando artículos" y "Redactando la respuesta" |
+| Respuesta | Aparece en streaming y cita el artículo en que se basa |
+| Panel lateral | Una pestaña por fragmento recuperado, con su texto completo |
+| Segunda pregunta con "¿y en 3° medio?" | El modelo conserva el contexto de los últimos seis mensajes |
+| Consulta fuera del reglamento | Responde que el contexto no lo contiene, sin inventar plazos ni porcentajes |
+| Sin `DEEPSEEK_API_KEY` | Mensaje de error genérico; el detalle queda en el log del servidor |
+| Reinicio del servicio | El índice y los fragmentos se recargan correctamente |
+
+### Prueba del pipeline de ingesta
+
+```bash
+python scripts/convert_docx_to_markdown.py     # debe reportar 44 artículos con título
+python preprocessing_text_and_embeddings.py    # debe reportar 54 secciones y 286 fragmentos
+```
+
+---
+
 ## Regenerar el índice
 
 Necesario cada vez que cambie el reglamento o el Markdown de trabajo.
@@ -256,7 +299,7 @@ mantienen en caché durante la vida del proceso.
 | Embeddings | dimensionalidad | 768 |
 | Índice | métrica Annoy | `angular` |
 | Índice | `n_trees` | 10 |
-| Recuperación | vecinos (`k`) | 5 |
+| Recuperación | vecinos (`k`) | 8 |
 | Conversación | historial enviado | últimos 6 mensajes |
 | LLM | proveedor | DeepSeek (`api.deepseek.com`) |
 | LLM | modelo | `deepseek-flash` |
@@ -273,8 +316,10 @@ sección proviene el contexto y pueda citarla.
 
 ## Limitaciones conocidas
 
-- **Cobertura del contexto:** se recuperan siempre cinco fragmentos. Si la respuesta
-  requiere cruzar artículos distantes, el modelo puede no ver toda la evidencia.
+- **Cobertura del contexto:** se recuperan siempre ocho fragmentos, sin filtrar por
+  relevancia. Si la respuesta requiere cruzar artículos distantes, el modelo puede no
+  ver toda la evidencia; si la consulta es muy específica, algunos fragmentos recuperados
+  serán ruido.
 - **Citación aproximada:** el *system prompt* exige indicar el artículo, pero la cita la
   redacta el modelo y no se valida contra el documento.
 - **Pérdida de imágenes:** las 11 imágenes del `.docx` (membretes, diagramas y capturas

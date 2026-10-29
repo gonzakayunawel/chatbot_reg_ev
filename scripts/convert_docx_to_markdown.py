@@ -35,7 +35,7 @@ NUMBERED_RE = re.compile(r"^N[°º]\s*(\d+)\s*[-–—]\s*(.+)$")
 BOLD_LINE_RE = re.compile(r"^\*\*(.+?)\*\*[.:]?$")
 
 HEADER = "# REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN 2024 — COLEGIO TGS"
-MAX_SUBTITLE_LEN = 110
+MAX_SUBTITLE_LEN = 140
 
 
 def strip_bold(line: str) -> str:
@@ -48,21 +48,29 @@ def clean_heading_text(text: str) -> str:
     return text.strip().rstrip(":").rstrip(".").strip()
 
 
-def next_bold_subtitle(lines: list[str], start: int) -> tuple[int, str]:
-    """Busca el primer título en negrita no vacío a partir de `start`.
+def next_subtitle(lines: list[str], start: int, require_uppercase: bool) -> tuple[int, str]:
+    """Busca el nombre del título o artículo a partir de `start`.
 
     Devuelve (índice, texto) o (-1, "") si no hay. Se saltan las líneas en
     blanco porque Word separa el rótulo ("**TÍTULO 2**") de su nombre.
+
+    En el original, el nombre puede venir en negrita o como párrafo en
+    mayúsculas; `require_uppercase` distingue ambos casos para no confundir una
+    frase cualquiera del cuerpo con un título.
     """
     for j in range(start, min(start + 3, len(lines))):
         stripped = lines[j].strip()
         if not stripped:
             continue
-        match = BOLD_LINE_RE.match(stripped)
-        if not match:
+        candidate = clean_heading_text(strip_bold(stripped))
+        if not looks_like_subtitle(candidate):
             return -1, ""
-        candidate = clean_heading_text(match.group(1))
-        return (j, candidate) if looks_like_subtitle(candidate) else (-1, "")
+        if require_uppercase:
+            letters = [c for c in candidate if c.isalpha()]
+            uppercase_ratio = sum(c.isupper() for c in letters) / len(letters)
+            if uppercase_ratio < 0.6:
+                return -1, ""
+        return j, candidate
     return -1, ""
 
 
@@ -104,7 +112,9 @@ def normalize(lines: list[str]) -> list[str]:
                 heading += f": {clean_heading_text(rest)}"
             else:
                 # El nombre del título suele venir en la línea siguiente, en negrita.
-                j, subtitle = next_bold_subtitle(lines, i + 1) if is_bold_line else (-1, "")
+                j, subtitle = next_subtitle(
+                    lines, i + 1, require_uppercase=not is_bold_line
+                )
                 if j != -1:
                     heading += f": {subtitle}"
                     i = j
@@ -118,8 +128,11 @@ def normalize(lines: list[str]) -> list[str]:
             heading = f"### ARTÍCULO {number}°"
             if rest.strip():
                 heading += f": {clean_heading_text(rest)}"
-            elif is_bold_line:
-                j, subtitle = next_bold_subtitle(lines, i + 1)
+            else:
+                # En negrita es un título; en texto plano, solo si está en mayúsculas.
+                j, subtitle = next_subtitle(
+                    lines, i + 1, require_uppercase=not is_bold_line
+                )
                 if j != -1:
                     heading += f": {subtitle}"
                     i = j

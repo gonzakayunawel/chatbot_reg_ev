@@ -25,9 +25,7 @@ Sobre la base del decreto N° 67 de 2018 del Ministerio de Educación, que aprue
 
 ## TÍTULO 2: DISPOSICIONES GENERALES
 
-### ARTÍCULO 1°
-
-ALCANCES DEL REGLAMENTO
+### ARTÍCULO 1°: ALCANCES DEL REGLAMENTO
 
 1. El Reglamento de Evaluación, Calificación y Promoción Escolar, es el documento que establece los procedimientos de evaluación calificación y promoción escolar para los estudiantes del Colegio Talagante Garden School a partir del año 2024.
 2. Que los establecimientos educacionales están facultados para elaborar su Reglamento de Evaluación acorde con su PEI y con las características y necesidades de sus estudiantes.
@@ -42,9 +40,7 @@ curriculares e implementación de Diseño Universal (DUA).
 * Decreto N° 170 de 2009, que fija normas para determinar alumnos con necesidades educativas especiales. Frente a este Decreto se deja constancia que el colegio no cuenta con PIE y por tanto se aplican algunos de sus artículos.
 * Actualización de la Priorización Curricular 2023 – 2025.
 
-### ARTÍCULO 2°
-
-REGIMEN ESCOLAR: VIGENCIA, NIVELES Y ORGANIZACIÓN DE LOS PERIODOS.
+### ARTÍCULO 2°: REGIMEN ESCOLAR: VIGENCIA, NIVELES Y ORGANIZACIÓN DE LOS PERIODOS
 
 1. El presente Reglamento tiene vigencia a partir del inicio del año escolar 2024.
 2. El presente Reglamento de Evaluación se aplicará desde Primero Básico a Cuarto Año Medio, de acuerdo con los Planes y Programas aprobados por el MINEDUC, considerando las adecuaciones curriculares pertinentes determinadas por el equipo de aula.
@@ -57,9 +53,7 @@ REGIMEN ESCOLAR: VIGENCIA, NIVELES Y ORGANIZACIÓN DE LOS PERIODOS.
 9. Durante la última semana de Diciembre y primeros 10 días de Enero, los docentes podrán ser convocados para cumplir actividades de Perfeccionamiento, Planificación Anual del año siguiente, que incluya la temporización de los Objetivos de Aprendizaje, para el 1º y 2º semestre; Cronograma Semanal Anual, el Calendario de Evaluación con los procesos e instrumentos de evaluación y sus respectivas ponderaciones, del o las asignaturas que imparte y de todos sus cursos, de acuerdo a la carga horaria asignada, para el año lectivo siguiente u otras que no tengan el carácter de docentes en el aula, hasta por un período de
 tres semanas consecutivas ( Decreto con fuerza de ley N° 1 de 1996, Mineduc).
 
-### ARTÍCULO 3°
-
-DE LA FORMULACIÓN DEL REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN ESCOLAR.
+### ARTÍCULO 3°: DE LA FORMULACIÓN DEL REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN ESCOLAR
 
 1. La Dirección Académica, en conjunto con los Coordinadores Académicos de Ed. Básica y Ed. Media, los Departamentos Académicos y el Consejo Docente, ha sido revisado y ajustado previamente, durante el año 2023, en:
 
@@ -67,9 +61,8 @@ DE LA FORMULACIÓN DEL REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN ESC
 * Jornadas Técnicas de Revisión de los Jefes de Departamento y sus equipos docentes.
 * Presentación al Consejo Escolar del TGS.
 
-### ARTÍCULO 4°
+### ARTÍCULO 4°: DE LA DIFUSIÓN DEL REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN
 
-DE LA DIFUSIÓN DEL REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN
 ESCOLAR.
 
 * En la Reunión de Apoderados del marzo 2024, donde se revisarán los aspectos más relevantes del documento.
@@ -77,9 +70,7 @@ ESCOLAR.
 * En la página web del colegio, donde estará alojado el documento “Reglamento Interno de Evaluación, Calificación y Promoción Escolar”.
 * En reuniones del Consejo Escolar del Establecimiento.
 
-### ARTÍCULO 5°
-
-SOBRE LA FORMA DE PLANIFICAR EN NUESTRO COLEGIO.
+### ARTÍCULO 5°: SOBRE LA FORMA DE PLANIFICAR EN NUESTRO COLEGIO
 
 Tomando en consideración lo planteado por el Decreto 67/2018, nuestro Colegio Talagante Garden School, expresa que al momento de diseñar Unidades de Aprendizaje y Evaluación, la metodología que resguarda el alineamiento y la coherencia entre la evaluación, las experiencias de aprendizaje y el objetivo de aprendizaje que se busca lograr alcanzar, es **“Planificar de Forma Invertida” (Wiggins & McTighe, 1998, 2005)**, es decir, empezando por lo que se espera que hayan aprendido los estudiantes al finalizar la unidad. Así diseñar de forma “invertida” implica comenzar teniendo claridad del objetivo de aprendizaje(1), luego definir qué evidencia necesitaremos para conocer el nivel de logro (2) y por lo tanto, cómo se evaluará este objetivo, y finalmente (3) definir el Plan o la Secuencia de Experiencias de Aprendizaje que permitirá que los estudiantes puedan alcanzarlo, como se aprecia en el siguiente diagrama:
 
@@ -99,9 +90,7 @@ Plan de Aprendizaje que incluya Evaluación formativa, permite fortalecer la coh
 
 **ORGANIZACIÓN, INSTRUMENTOS Y PROCEDIMIENTOS**.
 
-### ARTÍCULO 6°
-
-CONCEPTUALIZACIÓN:
+### ARTÍCULO 6°: CONCEPTUALIZACIÓN
 
 A la luz del decreto de evaluación vigente sobre la base de la responsabilidad
 pedagógica que nos compete como Colegio Talagante Garden School, se entenderá por:
@@ -162,9 +151,7 @@ dichos aprendizajes.
 oportunidades, para así generar evidencias consistentes respecto de
 los procesos, progreso o logros de aprendizaje de los estudiantes.
 
-### ARTÍCULO 7°
-
-DE LOS TIPOS DE EVALUACIÓN DE ACUERDO CON LA INTENCIÓN; AGENTE EVALUADOR; CON LA EXTENSIÓN; EL ESTÁNDAR DE COMPARACIÓN.
+### ARTÍCULO 7°: DE LOS TIPOS DE EVALUACIÓN DE ACUERDO CON LA INTENCIÓN; AGENTE EVALUADOR; CON LA EXTENSIÓN; EL ESTÁNDAR DE COMPARACIÓN
 
 1. **TEST INICIAL**: puede entenderse como un tipo de evaluación INICIAL que permite identificar el lugar en el que se encuentra el estudiante en su trayectoria hacia el logro de los aprendizajes.
 2. Esta evaluación será aplicada a partir de la **TERCERA SEMANA DE CLASES** del mes de marzo de cada año, en las asignaturas basales y en todos los niveles, luego de una nivelación de los OA previos necesarios para iniciar la Unidad N° 1 que constituye información sobre el nivel de desempeño respecto de cierta habilidad y las necesidades que serían importantes de abordar en este proceso. Esta información es esencial para comenzar procesos de enseñanza y, por lo tanto, fundamental para ajustar lo previamente planificado, de considerarse necesario.
@@ -486,9 +473,7 @@ Además, solo el apoderado titular podrá retirar al estudiante del establecimie
 
 En situaciones excepcionales donde un apoderado distinto al titular deba retirar al estudiante, podrá enviar un correo electrónico a Miss Lorna León (lorna.leon@colegiotgs.cl) con una fotografía de la cédula de identidad de la persona que retirará, con la autorización correspondiente antes del retiro.
 
-### ARTÍCULO 19°
-
-**DE LAS EVALUACIONES ESCRITAS**
+### ARTÍCULO 19°: DE LAS EVALUACIONES ESCRITAS
 
 1. Cada instrumento evaluativo sumativo, tipo prueba escrita, debe cumplir con los requerimientos planteados en este reglamento.
 
@@ -535,9 +520,7 @@ los contenidos y del tipo de instrumento de evaluación que se utilizará.
 
 14. La asistencia de los alumnos a todo procedimiento de evaluación previamente fijado **es obligatoria**.
 
-### ARTÍCULO 20°
-
-FORMALIDAD DE LAS EVALUACIONES
+### ARTÍCULO 20°: FORMALIDAD DE LAS EVALUACIONES
 
 Todos los instrumentos escritos aplicados deberán cumplir con el siguiente formato Institucional:
 
@@ -557,9 +540,7 @@ Todos los instrumentos escritos aplicados deberán cumplir con el siguiente form
 (siempre que no se use hoja de respuesta)
 * Niveles de la Taxonomía Bloom-Anderson considerados
 
-### ARTÍCULO 21°
-
-DE SITUACIONES ESPECIALES DE EVALUACIÓN
+### ARTÍCULO 21°: DE SITUACIONES ESPECIALES DE EVALUACIÓN
 
 1. **Retroalimentación, Nivelación y/o Reforzamientos:**
 
@@ -698,9 +679,8 @@ Cualquier cambio o modificación de calificaciones por parte de un docente sin l
 
 Esta medida busca garantizar la transparencia y la integridad en el proceso de evaluación académica, así como asegurar que cualquier ajuste en las calificaciones sea realizado de manera justa y bajo los procedimientos establecidos por la institución educativa.
 
-### ARTÍCULO 22°
+### ARTÍCULO 22°: SOBRE LOS ESPACIOS DE REFLEXIÓN PEDAGÓGICA DE LOS PROFESIONALES DE
 
-SOBRE LOS ESPACIOS DE REFLEXIÓN PEDAGÓGICA DE LOS PROFESIONALES DE
 EDUCACIÓN.
 
 1. Los docentes tendrán dentro de su carga horaria (horas de colaboración) considerado el tiempo para poder realizar Reflexión Pedagógica y Técnica en conjunto, a saber:
@@ -748,9 +728,7 @@ Esta medida busca asegurar una comunicación efectiva y colaborativa dentro del 
 
 ## TÍTULO III: DE LA MODALIDAD DE LA INFORMACIÓN A LOS PADRES DE FAMILIA Y /O APODERADOS
 
-### ARTÍCULO 23°
-
-COMUNICACIÓN DE LOS PROCESOS DE EVALUACIÓN DE LOS ESTUDIANTES.
+### ARTÍCULO 23°: COMUNICACIÓN DE LOS PROCESOS DE EVALUACIÓN DE LOS ESTUDIANTES
 
 1. En la misma lógica de integración de los padres y apoderados se entregará en el Mes de Marzo y Agosto de cada año, un Cronograma de Evaluaciones, considerado en la Planificación de cada asignatura y su correspondiente Ponderación Académica. La suma de las Ponderaciones, constituirá la Calificación del Semestre.
 
@@ -773,9 +751,7 @@ apoderados; entrevistas individuales con el Profesor Tutor; en informes escritos
 
 ## TÍTULO IV: DE LAS CALIFICACIONES
 
-### ARTÍCULO 24°
-
-DEL NIVEL DE EXIGENCIA DE LAS EVALUACIONES (PREMA)
+### ARTÍCULO 24°: DEL NIVEL DE EXIGENCIA DE LAS EVALUACIONES (PREMA)
 
 Nuestra Misión nos interpela a desarrollar una gestión educativa de calidad, que inste a los estudiantes a desplegar todas sus competencias, actitudes y valores con trascendencia a su Proyecto de Vida, por esta razón es que se establece que para:
 
@@ -783,9 +759,7 @@ a) Prema de Educación Básica (1° a 8° Básico), el Nivel de Exigencia en las
 
 b) Prema Educación Media (I a IV Medio), el Nivel de Exigencia en las evaluaciones será de un 60% para la nota 4.0.
 
-### ARTÍCULO 25°
-
-DE LA CALIFICACIÓN EN LA ASIGNATURA DE RELIGIÓN Y ORIENTACIÓN.
+### ARTÍCULO 25°: DE LA CALIFICACIÓN EN LA ASIGNATURA DE RELIGIÓN Y ORIENTACIÓN
 
 1. Las calificaciones de la asignatura de Religión y Orientación NO incidirán en el promedio anual ni en la promoción escolar de los alumnos.
 2. Las asignaturas de Religión y Orientación es obligatoria para todos los estudiantes.
@@ -797,9 +771,7 @@ DE LA CALIFICACIÓN EN LA ASIGNATURA DE RELIGIÓN Y ORIENTACIÓN.
 8. Suficiente
 9. Insuficiente
 
-### ARTÍCULO 26°
-
-SOBRE LOS TIPOS DE CALIFICACIÓN Y SU PONDERACIÓN
+### ARTÍCULO 26°: SOBRE LOS TIPOS DE CALIFICACIÓN Y SU PONDERACIÓN
 
 1. Calificaciones Parciales para el 1° y 2° Semestre
 
@@ -809,9 +781,7 @@ SOBRE LOS TIPOS DE CALIFICACIÓN Y SU PONDERACIÓN
 4. No obstante, lo mencionado en el párrafo anterior, durante el transcurso del año escolar, se podrá reajustar este Calendario de Evaluación, ya sea eliminando o agregando evaluaciones, en virtud a los aprendizajes logrados de los estudiantes, lo que será revisado a través de argumentos pedagógicos y técnicos desde la coordinación académica y autorizado por Dirección Académica.
 5. Todo cambio en el Calendario de Evaluaciones deberá ser informado oportunamente a los apoderados vía Agenda Electrónica Lirmi Familia y/o por escrito.
 
-### ARTÍCULO 27°
-
-SOBRE EL REGISTRO DE LAS CALIFICACIONES Y SU PONDERACIÓN:
+### ARTÍCULO 27°: SOBRE EL REGISTRO DE LAS CALIFICACIONES Y SU PONDERACIÓN
 
 1. El registro de las calificaciones Parciales Sumativas en el Libro de Clases, se realizará consignando las calificaciones obtenidas, colocando en la parte superior del Casillero la
 Ponderación que cada calificación tendrá en el semestre. (Ver cuadro N°2)
@@ -828,9 +798,8 @@ El libro de clases digital realiza el cálculo automáticamente para ir generand
 4. La calificación del Semestre se expresará producto de la suma de las ponderaciones alcanzadas en la asignatura que se traducirá en una Calificación en una Escala Numérica
 de 1.5 a 7.0 en educación Media y de 2.0 a 7.0 en Educación Básica, como se aprecia en el cuadro N° 4.
 
-### ARTÍCULO 28°
+### ARTÍCULO 28°: SOBRE LA ESCALA DE CALIFICACIÓN SEMESTRAL, FINAL Y ANUAL, SITUACIONES Y
 
-SOBRE LA ESCALA DE CALIFICACIÓN SEMESTRAL, FINAL Y ANUAL, SITUACIONES Y
 CONSIDERACIONES ESPECIALES.
 
 1. La calificación, se expresarán en una Escala Numérica, de la siguiente forma:
@@ -865,17 +834,13 @@ promedio anual entre 3,85 y 3,94 y ello incide en su promoción, se procederá c
 17. **EL PROMEDIO GENERAL ANUAL**: Corresponderá al promedio aritmético de las calificaciones finales de todas las asignaturas del Plan de estudio.
 18. SE EXPRESARÁ CON UN DECIMAL Y SIN APROXIMACIÓN.
 
-### ARTÍCULO 29°
-
-CALIFICACIONES Y APRENDIZAJES ALCANZADOS.
+### ARTÍCULO 29°: CALIFICACIONES Y APRENDIZAJES ALCANZADOS
 
 Las calificaciones podrán referirse al aprendizaje alcanzado, en las áreas definidas en el Plan de Estudio y a aspectos de la Formación Valórica y no a comportamientos o incumplimiento de labores escolares.
 
 No obstante, lo anterior, habiendo salvo guardado todas las medidas y mecanismos que se dispongan para evaluar los aprendizajes de los estudiantes, se exceptúan a esta norma, las consideraciones referidas en el Artículo 21 de este Reglamento.
 
-### ARTÍCULO 30°
-
-EVALUACIONES DE CURSOS CON RESULTADOS INFERIORES 4.0
+### ARTÍCULO 30°: EVALUACIONES DE CURSOS CON RESULTADOS INFERIORES 4.0
 
 1. Las evaluaciones que se encuentren entre un 15% y 19,9% de notas insuficientes en un curso podrán ser registradas en el Libro de Clases Digital, pero solo cuando el profesor haya entregado al Coordinador de nivel, las remediales que se aplicarán, las que serán supervisadas por éste.
 2. Cuando en una evaluación las calificaciones inferiores a 4.0 afecten entre el 20 % al el 49% del total de estudiantes de un curso, el profesor de la asignatura deberá informarlo a la Dirección Académica y/o a los Coordinadores Académicos de cada nivel y al Profesor Tutor del curso y NO se podrá registrar las notas al libro de clases, hasta definir:
@@ -888,9 +853,7 @@ de Prema.
 8. En caso que esta situación se reitere en un curso, afectando a más de una asignatura, el Profesor Tutor, profesores de las disciplinas involucradas, junto con el área académica en un plazo no superior a 10 días hábiles, citarán a los apoderados de los(as) estudiantes afectados, para generar, en forma conjunta, estrategias para superar los rendimientos deficitarios. De ser necesario se colocará en el libro de clases la última evaluación rendida
 por los estudiantes.
 
-### ARTÍCULO 31°
-
-PONDERACIONES DE LAS EVALUACIONES EN CADA SEMESTRE.
+### ARTÍCULO 31°: PONDERACIONES DE LAS EVALUACIONES EN CADA SEMESTRE
 
 1. Durante el transcurso de cada Semestre se elaborará un Calendario Evaluaciones Sumativas en el cual se definirá la Ponderación de cada Evaluación, lo que deberá ser coherente con la planificación y en base una reflexión pedagógica previa de parte del
 docente de asignatura en conjunto con la Jefe Técnico.
@@ -904,9 +867,7 @@ enfatizar en mayor medida durante los procesos de enseñanza -aprendizaje.
 7. **Temporalidad**: En aquellos casos en que el aprendizaje evaluado tiene carácter progresivo, dar mayor ponderación a las últimas evaluaciones, es decir, más recientes del aprendizaje, dado que el estudiante podría evidenciar logros que representarían su nivel de aprendizaje de mejor forma que en evaluaciones previas.
 8. No obstante, lo anterior, como se señala en la normativa, ninguna evidencia recogida a través de un único método y en un momento específico, debe ser ponderada con más del 30% en la calificación final semestralmente.
 
-### ARTÍCULO 32°
-
-DEL REGISTRO DE LAS CALIFICACIONES.
+### ARTÍCULO 32°: DEL REGISTRO DE LAS CALIFICACIONES
 
 1. Los resultados de los procedimientos evaluativos deberán ser registrados en los libros de clase:
 
@@ -918,9 +879,7 @@ DEL REGISTRO DE LAS CALIFICACIONES.
 3. Los estudiantes y apoderados de Primero Básico a Cuarto medio, tendrán derecho a revisar los instrumentos de evaluación dentro de un plazo no superior a 48 horas hábiles después de publicada en el Libro de Clase la calificación. En el caso de tener alguna observación, el apoderado deberá enviar una comunicación al profesor de asignatura en la agenda del estudiante, para ser citado.
 4. Calificaciones Acumulativas: corresponden a trabajos y/o actividades realizadas en clases y que tienen una fecha y hora única de entrega. Se podrá calificar la revisión de tareas, dictados, Hacer Ahora, Ticket de Salida, Carpetas, Trabajos, Guías de Ejercicios y Lecturas Complementarias, entre otros, con nota Acumulativa De Proceso (Evaluación Formativa), que podrá traducirse en una calificación parcial, con una ponderación máxima dentro de cada semestre de un 10%.
 
-### ARTÍCULO 33°
-
-DE LA EVALUACIÓN DE LOS TALLERES QUE COMPLEMENTAN LA JORNADA ESCOLAR COMPLETA EN LOS DIFERENTES NIVELES.
+### ARTÍCULO 33°: DE LA EVALUACIÓN DE LOS TALLERES QUE COMPLEMENTAN LA JORNADA ESCOLAR COMPLETA EN LOS DIFERENTES NIVELES
 
 1. Los Talleres que complementen el Proyecto Educativo Institucional, que se consideren dentro del Plan de Estudio del Colegio Talagante Garden School, aplicarán el mismo sistema de evaluación y calificación estipulado en este Reglamento.
 2. La calificación resultante en cada Semestre, en los Talleres, tendrá una Ponderación máxima de un 15%. El cual deberá ser informado al principio de cada año escolar.
@@ -943,9 +902,8 @@ DE LA EVALUACIÓN DE LOS TALLERES QUE COMPLEMENTAN LA JORNADA ESCOLAR COMPLETA E
 talleres, dependiendo de las Evaluaciones SIMCE, Cambios en la PAES, modificaciones en las Bases Curriculares y Planes y Programas de Estudio, Proyecto Educativo, etc.
 2. En el primer y segundo semestre se aplicarán, Mediciones de Dominio Lector, APTUS o Ensayos de Simce, Cálculo Mental, todas estas consideradas dentro de los Programas de trabajo determinadas por Dirección Académica y PODRÍAN ser evaluadas con una nota parcial acumulativa por semestre a el Taller de la asignatura afín, LO QUE SE DEFINIRÁ CADA AÑO.
 
-### ARTÍCULO 34°
+### ARTÍCULO 34°: SOBRE LAS CALIFICACIONES Y PROCEDIMIENTOS DEL PLAN DE FORMACIÓN
 
-SOBRE LAS CALIFICACIONES Y PROCEDIMIENTOS DEL PLAN DE FORMACIÓN
 GENERAL - PLAN DE FORMACIÓN DIFERENCIADA HUMANÍSTICO -CIENTÍFICO, PARA III Y IV AÑOS MEDIOS.
 
 1. Los estudiantes de IIIº y IV medio incorporarán a su Plan de Formación General de Estudio un plan de Asignaturas Optativas en tres áreas o Disciplinas (A, B y C).
@@ -963,9 +921,7 @@ GENERAL - PLAN DE FORMACIÓN DIFERENCIADA HUMANÍSTICO -CIENTÍFICO, PARA III Y 
 2. ES IMPORTANTE MENCIONAR QUE: La organización de los grupos para impartir estas asignaturas dependerá de los Recursos de Infra Estructura y Profesionales con que cuente el establecimiento, pudiendo organizarlos por nivel; es decir, que se formen grupos diferentes para estudiantes de 3° y 4° Medio, o bien, que se formen grupos con estudiantes de ambos niveles.
 3. Los cambios de un Área o Disciplina a otra se podrán efectuar hasta la tercera semana de marzo de cada año, previa autorización de la Dirección Académica y bajo el visto bueno del Coordinador de Ed. Media. La solicitud podrá elevarse sólo una vez en cada año académico.
 
-### ARTÍCULO 35°
-
-DE LOS TRABAJOS O TAREAS
+### ARTÍCULO 35°: DE LOS TRABAJOS O TAREAS
 
 1. Cada Asignatura podrá solicitar 1 trabajo de investigación o de profundización por semestre, pudiendo tener como ponderación máxima de un 15%.
 2. La ponderación deberá estar ajustada a los tres aspectos mencionados en este Reglamento: Relevancia, Integralidad y Temporalidad.
@@ -992,16 +948,13 @@ deberá asignar un porcentaje del puntaje total de la prueba a estos aspectos. E
 
 ## TÍTULO V: DE LA PROMOCION
 
-### ARTÍCULO 36°
-
-DE LAS EXIGENCIAS Y REQUISITOS PARA LA PROMOCIÓN DE CURSO.
+### ARTÍCULO 36°: DE LAS EXIGENCIAS Y REQUISITOS PARA LA PROMOCIÓN DE CURSO
 
 1. El Decreto de Evaluación 67/2018 define promoción escolar como la acción mediante la cual el estudiante culmina favorablemente un curso, transitando al curso inmediatamente superior o egresando del nivel de educación media.
 2. Para la promoción de los estudiantes de 1° básico a 4° medio, se considerarán conjuntamente el logro de los objetivos de aprendizaje de todas las asignaturas de sus respectivos planes de estudio, que incidan en su promoción y la asistencia a un mínimo de 85% de las clases realizadas.
 
-### ARTÍCULO 37°
+### ARTÍCULO 37°: REQUISITOS DE RENDIMIENTO PARA LA PROMOCIÓN RESPECTO DEL LOGRO DE
 
-REQUISITOS DE RENDIMIENTO PARA LA PROMOCIÓN RESPECTO DEL LOGRO DE
 OBJETIVOS DE APRENDIZAJE.
 
 Serán promovidos de curso los estudiantes de 1°Básico a IVº de Educación Media que:
@@ -1012,9 +965,7 @@ Serán promovidos de curso los estudiantes de 1°Básico a IVº de Educación Me
 corresponda a un promedio mínimo de 5.0, incluido las asignaturas reprobadas.
 4. Por resolución exenta N°1.856 del 15 de julio de 2016, donde se aprueban Planes y Programas Propios en Inglés, el promedio anual obtenido en la **ASIGNATURA DE INGLÉS PARA 1° A 4° BÁSICO, INCIDIRÁ EN LA PROMOCIÓN DE LOS ESTUDIANTES.**
 
-### ARTÍCULO 38°
-
-DE LOS REQUISITOS DE ASISTENCIA PARA LA PROMOCIÓN DE CURSO.
+### ARTÍCULO 38°: DE LOS REQUISITOS DE ASISTENCIA PARA LA PROMOCIÓN DE CURSO
 
 1. Para ser promovidos de curso, los alumnos deberán tener un porcentaje igual o superior a un 85% de las clases, establecidas por el Calendario Escolar Anual.
 2. Para estos efectos, se considerará como **asistencia regular** la participación de los alumnos en eventos previamente autorizados por el establecimiento, sean nacionales o internacionales, en el área del deporte, la cultura, la literatura, las ciencias y las artes.
@@ -1051,9 +1002,7 @@ más adecuado para su bienestar y desarrollo integral.
 7. El rendimiento escolar de un estudiante no será obstáculo para la renovación de su matrícula, y tendrá derecho a repetir curso en un mismo establecimiento a lo menos en **una oportunidad en la educación básica y en una oportunidad en la educación media.**
 8. La Licencia de educación media permitirá optar a la continuación de estudios en la Educación Superior.
 
-### ARTÍCULO 38°
-
-ACTAS DE REGISTRO DE CALIFICACIONES Y PROMOCIÓN ESCOLAR
+### ARTÍCULO 38°: ACTAS DE REGISTRO DE CALIFICACIONES Y PROMOCIÓN ESCOLAR
 
 1. Actas de registro de calificaciones y promoción escolar Las Actas de Registro de Calificaciones y Promoción Escolar serán confeccionadas de acuerdo a las instrucciones del Sistema de Información General de Estudiantes (SIGE).
 2. El Acta de Registro de Calificaciones y Promoción Escolar consignará en cada curso:
@@ -1067,9 +1016,7 @@ ACTAS DE REGISTRO DE CALIFICACIONES Y PROMOCIÓN ESCOLAR
 
 ## TÍTULO VI: MEDIDAS DE ACOMPAÑAMIENTO PEDAGÓGICO
 
-### ARTÍCULO 39°
-
-SOBRE LAS MEDIDAS DE ACOMPAÑAMIENTO PEDAGÓGICAS IMPLEMENTADAS.
+### ARTÍCULO 39°: SOBRE LAS MEDIDAS DE ACOMPAÑAMIENTO PEDAGÓGICAS IMPLEMENTADAS
 
 1. Nuestro colegio, desde el año 2019, ha implementado un Programa de Acompañamiento Pedagógico, Socio-Emocional, denominado PROAT (Programa de Acción Tutorial) que busca entregar un acompañamiento pedagógico y socioemocial a nuestros estudiantes que lo requieran.
 2. El Programa PROAT, pretende:
@@ -1094,9 +1041,7 @@ acceder al contenido, de aprender sobre él o de mostrar que se aprendió
 focalizado, y monitoreado: el acompañamiento pedagógico, cómo forma de
 implementación de estas medidas puede tomar múltiples formas, consistiendo en, por ejemplo, una tutoría realizada por un par en alguna asignatura específica, apoyo individual o colectivo de un asistente de la educación en el aula, diversificación de actividades de aprendizaje y/o evaluación, derivación a apoyo psicosocial externo o interno, planificaciones ajustadas a sus necesidades, trabajo focalizado en su curso para abordar situaciones sensibles, entre otras.
 
-### ARTÍCULO 40°
-
-SOBRE LA CONDICIONALIDAD ACADÉMICA
+### ARTÍCULO 40°: SOBRE LA CONDICIONALIDAD ACADÉMICA
 
 Se encuentran en esta situación los estudiantes que:
 
@@ -1134,9 +1079,7 @@ evaluación del proceso.
 
 **VII.-CONSIDERACIONES FINALES:**
 
-### ARTÍCULO 41°
-
-DE LAS SALIDAS A TERRENO
+### ARTÍCULO 41°: DE LAS SALIDAS A TERRENO
 
 1. Las salidas a terreno o visitas pedagógicas deben ser solicitadas a través de un Formulario de Salidas Pedagógicas y entregado a la Dirección Académica con 15 días hábiles de anticipación presentando la planificación a realizar: fecha, hora, lugar, objetivos, contenidos afines y actividad a realizar.
 
@@ -1163,9 +1106,7 @@ Todas las disposiciones del Reglamento, así como también los mecanismos de res
 * Las modificaciones y/o actualizaciones serán informadas a la comunidad escolar por su publicación en la página web del establecimiento educacional y presentadas ante la Dirección Provincial de Educación respectiva.
 * El reglamento será cargado al Sistema de Información General de Estudiantes -SIGE- o aquel que el Ministerio de Educación disponga al efecto
 
-### ARTÍCULO 45°
-
-SITUACIONES NO PREVISTAS
+### ARTÍCULO 45°: SITUACIONES NO PREVISTAS
 
 Será el Director del establecimiento, quien deberá resolver en última instancia las situaciones especiales de evaluación y promoción escolar, como también toda situación no prevista en el presente Reglamento, dentro del período escolar correspondiente, previa consulta al Consejo de Profesores y cuando corresponda, con consulta al Departamento Provincial Correspondiente y la Secretaría Ministerial de Educación
 

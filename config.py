@@ -21,7 +21,9 @@ INDEX_FILE = BASE_DIR / "chunk_vectors.ann"
 # Recuperación
 EMBEDDINGS_MODEL = "paraphrase-multilingual-mpnet-base-v2"
 VECTOR_DIM = 768
-TOP_K = 5
+# Fragmentos enviados al modelo. Con 5 las consultas transversales
+# (por ejemplo, el nivel de exigencia) dejaban fuera el artículo relevante.
+TOP_K = 8
 
 # Generación
 LLM_BASE_URL = os.getenv("LLM_BASE_URL", "https://api.deepseek.com/v1")
