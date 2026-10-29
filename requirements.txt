@@ -1,6 +1,9 @@
-openai
-python-dotenv
-sentence-transformers
-annoy
-numpy
-streamlit
+# SDK compatible con la API de OpenAI: se usa contra el endpoint de DeepSeek
+openai>=1.40
+annoy>=1.17
+chainlit>=2.12
+langchain-text-splitters>=0.3
+markitdown[docx]>=0.1.9
+numpy>=1.26
+python-dotenv>=1.0
+sentence-transformers>=3.0

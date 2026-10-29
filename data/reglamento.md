@@ -1,0 +1,1188 @@
+# REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN 2024 — COLEGIO TGS
+
+
+*“En el presente documento se utilizan de manera inclusiva términos como “el director”, “el docente”,” el estudiante”, “el profesor”, “el compañero”, “apoderado” y sus respectivos plurales para aludir a hombres y mujeres.*
+
+*Esta opción obedece a que no existe acuerdo universal respecto de cómo nombrar conjuntamente a ambos sexos en el idioma español, salvo usando “o/a”, “los/las” y otras similares, y ese tipo de fórmulas supone una saturación gráfica que puede dificultar la comprensión de la lectura.*
+
+*También se utiliza en este documento la abreviación TGS que hace alusión al Colegio Talagante Garden School".*
+
+## TÍTULO 1: PRESENTACIÓN
+
+Para la Fundación Garden School todos los niños, niñas y jóvenes pueden aprender y tiene derecho a una educación integral y de calidad. En este sentido aspiramos a desarrollar procesos orientados no solo a la evaluación del aprendizaje, sino que especialmente a una evaluación para el aprendizaje. Por ello, los líderes pedagógicos y equipos docentes del establecimiento educacional despliegan estrategias y prácticas pedagógicas centradas en el aprendizaje activo y protagónico de los estudiantes, mediante el uso de datos y evidencia generada, principalmente, a partir de diversas actividades de evaluación internas y externas.
+
+El Colegio TGS, de la Fundación Garden School aborda en común el proceso educativo basado en datos, que tiene como propósito que todos los niños, niñas y jóvenes logren los aprendizajes esperados, orientando con ello el trabajo pedagógico. Este proceso supone tomar decisiones sobre la enseñanza en el aula, considerando lo que los estudiantes deben aprender, lo que han aprendido y aquello que no están aprendiendo.
+
+El avance de la tecnología no ha sido ajeno a nuestro proceso de enseñanza, por ello, estamos conscientes que nuestra comunidad cuenta con acceso a contenidos e información. Es por esto que la evaluación tiene el desafío de diversificarse y entregar más libertades a los estudiantes y también más responsabilidades, en donde la retroalimentación y la autoevaluación o coevaluación constituyan un factor importante en nuestro proceso de aprendizaje.
+
+Estamos conscientes que los docentes son parte esencial del proceso evaluativo, por eso deberán mantener una comunicación fluida con los estudiantes y sus padres, madres y/o apoderados respecto de los tiempos y tipos de evaluación. Así, tanto en el proceso presencial como remoto o digital, en caso de darse por temas sanitarios, el docente orientará y guiará a los estudiantes en sus obligaciones académicas, para que éstos puedan desarrollar su aprendizaje de la mejor forma posible, teniendo presente siempre el contexto y características de nuestros estudiantes y su grupo familiar.
+
+Por otra parte, los estudiantes deberán acatar las recomendaciones e instrucciones de sus docentes, para luego acoger las mejoras en un proceso de retroalimentación.
+
+En cuanto al equipo directivo, estará abocado a apoyar y proveer al equipo docente y cuerpo estudiantil de los conceptos y criterios necesarios para el proceso de aprendizaje.
+
+Sobre la base del decreto N° 67 de 2018 del Ministerio de Educación, que aprueba normas mínimas nacionales de evaluación, calificación y promoción escolar para estudiantes de educación regular, se presenta a continuación el Reglamento de Evaluación, Calificación y Promoción Escolar de la Fundación Garden School, que tiene como objetivo guiar a la comunidad educativa respecto de la normativa que regulará los procesos evaluativos de los establecimientos escolares.
+
+## TÍTULO 2: DISPOSICIONES GENERALES
+
+### ARTÍCULO 1°
+
+ALCANCES DEL REGLAMENTO
+
+1. El Reglamento de Evaluación, Calificación y Promoción Escolar, es el documento que establece los procedimientos de evaluación calificación y promoción escolar para los estudiantes del Colegio Talagante Garden School a partir del año 2024.
+2. Que los establecimientos educacionales están facultados para elaborar su Reglamento de Evaluación acorde con su PEI y con las características y necesidades de sus estudiantes.
+3. El presente Reglamento de Evaluación, Calificación y Promoción se ha elaborado en conformidad con:
+
+* El Decreto Exento N°67 de 2018, que aprueba Normas mínimas nacionales sobre evaluación, calificación y promoción para niveles de Educación Básica y Ed. Media en ambas modalidades (Científico Humanista y Formación Diferenciada Técnico Profesional), que deroga los decretos exentos N° 511 de 1997, N° 112 de 1999 y N°83 de 2001.
+* Ley General de Educación, N°20.370
+* Ley de inclusión Escolar, N° 20.845
+* Ley que modifica el Régimen de Jornada Escolar Completa y otros cuerpos legales, N° 19.979
+* Decreto N° 83 de 2015, que establece criterios y orientaciones de adecuaciones
+curriculares e implementación de Diseño Universal (DUA).
+* Decreto N° 170 de 2009, que fija normas para determinar alumnos con necesidades educativas especiales. Frente a este Decreto se deja constancia que el colegio no cuenta con PIE y por tanto se aplican algunos de sus artículos.
+* Actualización de la Priorización Curricular 2023 – 2025.
+
+### ARTÍCULO 2°
+
+REGIMEN ESCOLAR: VIGENCIA, NIVELES Y ORGANIZACIÓN DE LOS PERIODOS.
+
+1. El presente Reglamento tiene vigencia a partir del inicio del año escolar 2024.
+2. El presente Reglamento de Evaluación se aplicará desde Primero Básico a Cuarto Año Medio, de acuerdo con los Planes y Programas aprobados por el MINEDUC, considerando las adecuaciones curriculares pertinentes determinadas por el equipo de aula.
+3. El proceso educativo se organizará en **dos semestres**. Las fechas de inicio y término de cada período se regirán por el calendario anual de MINEDUC y serán debidamente informadas tanto a estudiantes como a los apoderados al inicio del año escolar.
+4. Los estudiantes deberán ser evaluados en todas las asignaturas del Plan de Estudio.
+5. El trabajo docente se realiza sobre la base de un Cronograma de Planificación Semestral y un Cronograma de Evaluación Semestral que deben ser entregados al inicio de cada semestre a cada Coordinador Académico de Nivel.
+6. El Establecimiento Educacional deberá cerrar los procesos de evaluación semestral, inmediatamente después del término de las vacaciones de invierno y al término del año lectivo, según indicaciones y fechas del Calendario Escolar Anual Ministerial.
+7. Cualquier situación excepcional será resuelta por Dirección Académica, más las indicaciones ministeriales, si las hubiera.
+8. Se deja expresa nota, que todo proceso académico de cada año quedará cerrado a más tardar el 30 de diciembre de cada año, no pudiéndose realizar modificaciones posteriores.
+9. Durante la última semana de Diciembre y primeros 10 días de Enero, los docentes podrán ser convocados para cumplir actividades de Perfeccionamiento, Planificación Anual del año siguiente, que incluya la temporización de los Objetivos de Aprendizaje, para el 1º y 2º semestre; Cronograma Semanal Anual, el Calendario de Evaluación con los procesos e instrumentos de evaluación y sus respectivas ponderaciones, del o las asignaturas que imparte y de todos sus cursos, de acuerdo a la carga horaria asignada, para el año lectivo siguiente u otras que no tengan el carácter de docentes en el aula, hasta por un período de
+tres semanas consecutivas ( Decreto con fuerza de ley N° 1 de 1996, Mineduc).
+
+### ARTÍCULO 3°
+
+DE LA FORMULACIÓN DEL REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN ESCOLAR.
+
+1. La Dirección Académica, en conjunto con los Coordinadores Académicos de Ed. Básica y Ed. Media, los Departamentos Académicos y el Consejo Docente, ha sido revisado y ajustado previamente, durante el año 2023, en:
+
+* Jornadas Técnicas de Reflexión del Decreto 67/2018 del Área académica.
+* Jornadas Técnicas de Revisión de los Jefes de Departamento y sus equipos docentes.
+* Presentación al Consejo Escolar del TGS.
+
+### ARTÍCULO 4°
+
+DE LA DIFUSIÓN DEL REGLAMENTO DE EVALUACIÓN, CALIFICACIÓN Y PROMOCIÓN
+ESCOLAR.
+
+* En la Reunión de Apoderados del marzo 2024, donde se revisarán los aspectos más relevantes del documento.
+* Al estudiante en las horas de Consejo de Curso, Orientación y/o Tutoría en el mes de marzo 2024.
+* En la página web del colegio, donde estará alojado el documento “Reglamento Interno de Evaluación, Calificación y Promoción Escolar”.
+* En reuniones del Consejo Escolar del Establecimiento.
+
+### ARTÍCULO 5°
+
+SOBRE LA FORMA DE PLANIFICAR EN NUESTRO COLEGIO.
+
+Tomando en consideración lo planteado por el Decreto 67/2018, nuestro Colegio Talagante Garden School, expresa que al momento de diseñar Unidades de Aprendizaje y Evaluación, la metodología que resguarda el alineamiento y la coherencia entre la evaluación, las experiencias de aprendizaje y el objetivo de aprendizaje que se busca lograr alcanzar, es **“Planificar de Forma Invertida” (Wiggins & McTighe, 1998, 2005)**, es decir, empezando por lo que se espera que hayan aprendido los estudiantes al finalizar la unidad. Así diseñar de forma “invertida” implica comenzar teniendo claridad del objetivo de aprendizaje(1), luego definir qué evidencia necesitaremos para conocer el nivel de logro (2) y por lo tanto, cómo se evaluará este objetivo, y finalmente (3) definir el Plan o la Secuencia de Experiencias de Aprendizaje que permitirá que los estudiantes puedan alcanzarlo, como se aprecia en el siguiente diagrama:
+
+Al diseñar el Plan o la secuencia de experiencias de aprendizaje para desarrollar esos
+desempeños fundamentales que se busca lograr, se integra también la evaluación en su función de Monitoreo del Aprendizaje, es decir, en su uso Formativo.
+
+En concordancia a lo anterior, por ello se vuelve imprescindible considerar en el espacio de la Planificación los siguientes momentos:
+
+1. La Evaluación de Pre-Test Inicial, de modo de contar con información sobre las
+valoraciones, concepciones, conocimientos y habilidades de los estudiantes que
+luego permita ajustar lo planificado;
+2. Posteriormente, es importante diseñar ciclos de enseñanza que intercalen evaluaciones formativas y retroalimentación **antes** de las evaluaciones Sumativas, de modo de ir incorporando el monitoreo y el ajuste de la enseñanza de forma sistemática en estos procesos.
+3. Por último, Planificar de modo “Invertido” - comenzando por el objetivo de aprendizaje, definiendo luego la evidencia evaluativa que lo reflejará, para finalmente determinar un
+Plan de Aprendizaje que incluya Evaluación formativa, permite fortalecer la coherencia del proceso de enseñanza aprendizaje completo que se diseña, y en particular de la evaluación con el objetivo que se busca lograr, e integrar la evaluación en sus distintos momentos en función de un uso pedagógico que permita potenciar el apoyo sistemático a los estudiantes.[[1]](#footnote-1)
+
+## TÍTULO 3: DE LOS CONCEPTOS, SUS PRINCIPIOS, PROCESO DE EVALUACIÓN, NATURALEZA,
+
+**ORGANIZACIÓN, INSTRUMENTOS Y PROCEDIMIENTOS**.
+
+### ARTÍCULO 6°
+
+CONCEPTUALIZACIÓN:
+
+A la luz del decreto de evaluación vigente sobre la base de la responsabilidad
+pedagógica que nos compete como Colegio Talagante Garden School, se entenderá por:
+
+1. **EVALUACION**: “Conjunto de acciones lideradas por los profesionales de la educación para que tanto ellos como los alumnos puedan obtener e interpretar la información sobre
+el aprendizaje, con el objeto de adoptar decisiones que permitan promover el
+progreso del aprendizaje y retroalimentar los procesos de enseñanza”.
+2. **LA CALIFICACION**: “La calificación, por su parte, se entiende como la representación del logro del aprendizaje en un número, símbolo o concepto, que permita transmitir un significado compartido respecto a dicho aprendizaje, por lo que siempre conlleva un proceso de evaluación.
+3. **CURSO:** Etapa de un ciclo que compone un nivel, modalidad, formación general común o diferenciada y especialidad si corresponde, del proceso de enseñanza y aprendizaje que se desarrolla durante una jornada en un año escolar determinado, mediante los Planes y Programas previamente aprobados por el Ministerio de Educación.
+4. **PROMOCIÓN**: Acción mediante la cual el estudiante culmina favorablemente un curso, transitando al curso inmediatamente superior o egresando del nivel de educación media
+5. **SOBRE EL PROCESO DE EVALUACIÓN DE LOS ESTUDIANTES**.
+
+El Decreto 67/2018 se enmarca en un enfoque, según el cual la evaluación que se realiza al interior del establecimiento es parte intrínseca del proceso de enseñanza y, por lo tanto, tiene un Rol Pedagógico, cuyo objetivo es promover el progreso del aprendizaje y retroalimentar los procesos de enseñanza, de todos los estudiantes, considerando la diversidad como un aspecto inherente a todas las aulas.
+
+**LOS PRINCIPIOS QUE SE CONSIDERAN MÁS RELEVANTES SOBRE EVALUACIÓN Y QUE ESTÁN EN LA BASE DEL DECRETO 67/2018.**
+
+1. A Evaluar lo que los estudiantes están aprendiendo, es decir, se evalúa la
+evidencia del desempeño de los estudiantes (lo que dicen, escriben, hacen y crean
+que muestra lo que están aprendiendo).
+2. Tener claridad el docente como los estudiantes desde el comienzo del
+proceso de aprendizaje, respecto de qué es lo que se espera que aprendan,
+aquí se incorpora la Metodología de la Planificación Reversa.
+3. Dado el propósito principal de la evaluación es fortalecer la enseñanza y los
+aprendizajes de los estudiantes, se entenderá la Retroalimentación como parte
+fundamental de cada proceso evaluativo. Con ello el docente podrá contar con
+la información pedagógica para la posterior toma de decisiones.
+4. Conocer y valorar los logros alcanzados por los estudiantes, recogiendo
+información sistemática con procedimientos e instrumentos evaluativo que
+respondan tanto, a los objetivos de aprendizaje como a las habilidades y necesidades de cada estudiante.
+5. No toda evaluación debe conducir a una calificación. La Evaluación y la
+calificación son procesos que, si bien relacionados, es necesario distinguir. La
+evaluación, como proceso de recogida de evidencia del aprendizaje para tomar
+decisiones pedagógicas, no siempre implica una calificación. Es importante considerar que las calificaciones no deben usarse con
+fines punitivos ni como reconocimiento por mérito distintos a los logros de
+aprendizaje, pues de lo contrario se distorsiona su comprensión, propósito y uso.
+6. Se califica solamente aquello que los estudiantes efectivamente han tenido oportunidad de aprender en clases, mediante las experiencias de aprendizaje que el docente haya planificado y realizado con ellos.
+7. En el marco de un enfoque inclusivo, la evaluación se entiende como una
+herramienta esencial para visibilizar y posibilitar las necesidades educativas
+diversas y diferentes de nuestros estudiantes. Por ello se debe considerar experiencias de aprendizaje diversas (DUA), como las formas en que se evalúan los objetivos de aprendizaje.
+8. Se debe procurar que el estudiante tenga una participación en los
+procesos de evaluación. Promoviendo por ejemplo temáticas o formas de
+presentar un producto y por otra parte generando experiencias de auto y
+coevaluación, que le permitan reflexionar sobre sus procesos, progresos y logros
+de aprendizaje.
+9. Las planificaciones, y las oportunidades de aprendizaje que éstas contemplan, deben considerar espacios para evaluar formativamente aquellos
+aprendizajes que se busca desarrollar, dando mayor cabida a la retroalimentación
+den los procesos de enseñanza y aprendizaje. Se espera que se contemplen
+acciones para monitorear los procesos, progresos y logros de aprendizaje con los
+estudiantes y poder reflexionar y tomar decisiones en forma oportuna en el ajuste
+de estrategias de aprendizaje.
+10. La evidencia de los aprendizajes de los estudiantes debe ser analizada continuamente, y ajustar, cuando se considere necesario, las planificaciones y estrategias pedagógicas.
+11. Las evaluaciones que realicen los docentes deben ser de la más alta calidad
+posible, cumpliendo, al menos con algunos criterios.
+12. Estas deben representar de la forma más precisa posible los
+aprendizajes que se busca evaluar y no aspectos ajenos o accesorios a
+dichos aprendizajes.
+13. Evaluar los aprendizajes de diferentes formas y en distintas
+oportunidades, para así generar evidencias consistentes respecto de
+los procesos, progreso o logros de aprendizaje de los estudiantes.
+
+### ARTÍCULO 7°
+
+DE LOS TIPOS DE EVALUACIÓN DE ACUERDO CON LA INTENCIÓN; AGENTE EVALUADOR; CON LA EXTENSIÓN; EL ESTÁNDAR DE COMPARACIÓN.
+
+1. **TEST INICIAL**: puede entenderse como un tipo de evaluación INICIAL que permite identificar el lugar en el que se encuentra el estudiante en su trayectoria hacia el logro de los aprendizajes.
+2. Esta evaluación será aplicada a partir de la **TERCERA SEMANA DE CLASES** del mes de marzo de cada año, en las asignaturas basales y en todos los niveles, luego de una nivelación de los OA previos necesarios para iniciar la Unidad N° 1 que constituye información sobre el nivel de desempeño respecto de cierta habilidad y las necesidades que serían importantes de abordar en este proceso. Esta información es esencial para comenzar procesos de enseñanza y, por lo tanto, fundamental para ajustar lo previamente planificado, de considerarse necesario.
+3. Tendrá una **PONDERACIÓN ENTRE UN 5% A UN 10% DEL SEMESTRE.**
+4. El Test Inicial quedará registrada en el libro de clases Digital a más tardar entre última semana del mes de marzo.
+5. En cada Leccionario Digital deberá quedar el Registro de la Evaluación de la siguiente forma:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Nombre del estudiante | N° 1  Pond. 5% | N°2  Pond. 20% | N° 3  Pond 15% |
+| Arancibia Montes María José | 5.0 | 6.5 | 3.5 |
+| Cáceres Juárez Emilia | 7.0 | 5.0 | 4.4 |
+| Durán Parada Bastián | 3.8 | 5.9 | 6.6 |
+|  | TEST INICIAL | Unidad 1 | Unidad 2 |
+
+Cuadro N° 2: Registro De Calificaciones
+
+1. Adicionalmente deberá colocar en el Libro Digital: la fecha, la forma de evaluación, temario.
+2. Con esta información se realizará el Análisis de Resultados a alcanzar en cada curso al término de cada semestre, el cual quedará registrado en los **Compromisos de Gestión de la Asignatura.**
+3. Este análisis deberá estar listo a más tardar **la 1° semana de abril** para poder revisar el Cronograma de Planificaciones y Evaluaciones, previo a la 2°Reunión de Padres y Apoderados la primera semana de mayo.
+4. Los resultados de la Evaluación Test Inicial deberá ser informado a las madres, padres y apoderados como también a los estudiantes en un plazo de 08 días hábiles posteriores a la medición, a través de la Evaluación corregida y entregada a los alumnos y alumnas.
+5. **EVALUACIÓN FORMATIVA:**
+6. Es un proceso de evaluación continuo que ocurre durante la enseñanza y el aprendizaje, basado en la búsqueda e interpretación de evidencia acerca del logro de los estudiantes respecto a una meta. Esto permite que el docente pueda identificar dónde se encuentran los aprendizajes, conocer qué dificultades enfrentan en su proceso de aprendizaje y determinar qué es lo que sigue y hacia dónde deben dirigirse para cerrar la brecha entre el conocimiento actual y las metas esperadas y cuál es el mejor modo de llegar hasta ahí.
+7. Es una evaluación sin calificación y no incide en la promoción del estudiante.
+8. En este orden de cosas, siendo un valioso instrumento para validar metodologías, y prácticas pedagógicas aplicadas por los docentes, nuestro colegio ha establecido algunas Estrategias y /o Técnicas, que se encuentran consideradas dentro de la Planificación, entre otras muchas que se pueden trabajar, que permiten potenciar la Evaluación Formativa como son:
+9. Hacer Ahora.
+10. Ticket de Salida
+11. Ejercicios de Cálculo Mental
+12. La fluidez lectora.
+13. Autoevaluación, Coevaluación, Heteroevaluación
+14. Potenciar el uso de preguntas antes, durante y/o final de las clases para tener evidencias de la reflexión y comprensión de los estudiantes.
+15. Qué Aprendí Hoy.
+16. Generar instancias de retroalimentación: consideradas en la Planificación o en el análisis de los aprendizajes alcanzados por los estudiantes, entre otras estrategias.
+17. **AUTOEVALUACIÓN:**
+18. Mediante la autoevaluación los alumnos pueden reflexionar y
+tomar conciencia acerca de sus propios aprendizajes y de los factores que en ellos intervienen. Esto genera que el alumno aprenda a valorar su desempeño con
+responsabilidad.
+19. **COEVALUACIÓN:**
+20. Consiste en evaluar el desempeño de un estudiante a través de sus
+propios compañeros. Ésta tiene por meta involucrar a los estudiantes en la evaluación de los aprendizajes y proporcionar retroalimentación a sus compañeros y, por tanto, ser un factor para la mejora de la calidad de los aprendizajes. El uso de la coevaluación anima a que los estudiantes se sientan parte de una comunidad de aprendizaje, haciendo juicios críticos acerca del trabajo de sus compañeros.
+21. **EVALUACIÓN SUMATIVA:**
+22. La evaluación sumativa, tiene por objeto certificar, mediante una calificación ponderada con un máximo de 30%, definir a través de 3 características de Relevancia, Integralidad y Temporalidad, en relación a los aprendizajes logrados por los alumnos, durante un período semestral y/o al término de una unidad.
+
+### ARTÍCULO 8°: TIPOS DE EVALUACIÓN
+
+Nuestra comunidad Educativa, desarrolla su labor con un espíritu y método Gardeniano que se caracteriza por trabajar con un modelo preventivo de acompañamiento en las Tutorías.
+Sobre la base de esta tarea es que el proceso evaluativo se desarrolla por parte del alumno, experimentando diversos procedimientos, pruebas e instrumentos evaluativos entre los cuales se destacan:
+
+**PRUEBAS: con diferentes tipos de ítems.**
+
+1. Escritas de desarrollo con Rúbrica adjunta al mismo ítem dentro de la evaluación.
+2. Escritas Objetivas.
+3. De respuesta Alternativas.
+4. De Selección Múltiple
+5. De Ordenamiento
+6. De Emparejamiento
+7. En Matemática, se debe considerar 2 Preguntas Tipo Simce al final de cada Evaluación.
+8. Las evaluaciones del Depto. Humanidades, deben considerar una Comprensión de Lectura.
+9. Orales
+
+**PRUEBAS ESTANDARIZADAS:**
+
+1. Internas (Calculo mental, velocidad lectora, Seguimiento Avance proceso lector 1° Básico)
+2. Externas (APTUS y PAES PDV)
+
+**OBSERVACIÓN Y PROCESO:**
+
+1. Registro Anecdótico
+2. Escalas de Apreciación
+3. Listas de Cotejo
+4. Rúbricas
+
+**EVALUACIONES ORALES**:
+
+1. Cuestionarios
+2. Diálogos
+3. Debates
+4. Exposiciones
+5. Dramatizaciones
+6. Otras
+
+**TRABAJOS PRÁCTICOS:**
+
+1. Mapas Conceptuales
+2. Mapa Mental
+3. Red Semántica
+4. Análisis de Casos
+5. Proyectos de Investigación con o sin evaluación de avance
+6. Portafolios
+7. Ensayos
+8. Entrevistas
+9. Reportes
+10. Salidas a Terreno
+11. Informes
+12. Maquetas
+13. Videos
+14. Desarrollo de Guías
+15. Juego de Roles
+
+### ARTÍCULO 9°: EVALUACIÓN DIFERENCIADA
+
+El concepto de Necesidades Educativas Especiales (NEE) implica una transición en la comprensión del aprendizaje, desde un modelo centrado en el déficit hacia un enfoque propiamente educativo, situando la mirada no solo en las características individuales sino más bien en el carácter interactivo de las necesidades educativas. En este sentido, cada establecimiento educacional tiene el desafío de dar respuestas y opciones flexibles e innovadoras para que los estudiantes, niños puedan participar, permanecer y progresar durante su trayectoria escolar.
+
+1. De acuerdo con el Artículo 2º de la Ley General de Educación, ***se entenderá por estudiante, niño o niña que presente NEE a aquel que precisa apoyo o recursos adicionales, ya sea humanos, materiales, pedagógicos y técnicos para conducir su proceso de desarrollo y aprendizaje, y contribuir al logro de los fines de la educación***.
+2. Estas necesidades educativas pueden ser físicas y/o psicológicas, transitorias o
+permanentes.
+3. Sobre la base de lo dispuesto en el Decreto N° 83 del año 2015, que promueven la diversificación de la enseñanza y aprueba criterios y orientaciones de adecuación curricular para estudiantes que lo requieran el Reglamento de Evaluación delineará las indicaciones para evaluar los aprendizajes de los estudiantes, considerando la diversidad de necesidades educativas especiales según el Decreto 170 del año 2009, las cuales se clasifican en:
+4. **Necesidades Educativas Especiales Transitorias** (NEET): Son necesidades educativas de aprendizaje que experimentan estudiantes, niños y niñas en algún momento de su trayectoria escolar. Las NEET pueden presentarse asociadas a Trastornos Específicos del Lenguaje (TEL), Dificultades Específicas del Aprendizaje (DEA), Déficit Atencional (TDA) puede ser con hiperactividad o hipoactividad y las necesidades educativas ligadas al funcionamiento cognitivo: Funcionamiento Intelectual Limítrofe (FIL).
+5. **Necesidades Educativas Especiales Permanentes** (NEEP): Son aquellas necesidades de los estudiantes, niños y niñas que tienen un origen intelectual, sensorial, motor y/o de comunicación. Se presentan durante la mayoría la trayectoria escolar y requiere de apoyos significativos para la participación, tanto en la vida escolar, social, cultural, laboral, y/o, por ende, en la participación de la vida ciudadana. Las NEEP pueden denominarse como: Discapacidad Visual, Discapacidad Auditiva, Hipoacusia Severa o Moderada, Sordera, Discapacidad Intelectual (DI), Discapacidad Motora Grave o Moderada, Discapacidad Múltiple, Sordoceguera, Trastorno del Espectro Autista (TEA), Trastorno del Espectro Autista Asperger, Retraso Global del Desarrollo (TGD), Disfasia Severa, Graves Alteraciones de la Relación y la Comunicación (GARC) y Síndrome de Down.
+6. Tanto las NEET y NEEP son diagnosticadas por profesionales competentes y demandan al sistema educacional, por una parte, la provisión de apoyos y recursos adicionales o extraordinarios por un determinado período de su escolarización, para asegurar el aprendizaje y participación de estudiantes, niños y niñas en el proceso educativo, y, por otra, el desarrollo de capacidades en los docentes para dar respuestas educativas, innovadoras, flexibles y de calidad a los diferentes estilos de aprendizaje, ritmos, capacidades e intereses presentes en el aula. Es importante recalcar que, para favorecer el aprendizaje y la participación de todos los estudiantes, niños y niñas independiente de sus capacidades, se deben considerar otras necesidades educativas como son:
+
+* **Necesidades educativas especiales de carácter socioemocional**: Estas se definen como aquellas barreras que pueden presentar ciertos estudiantes y sus familias, para adaptarse social y emocionalmente a los distintos ámbitos de su vida escolar. Dichas barreras representan para los estudiantes una mayor vulnerabilidad emocional para afrontar sus procesos educativos, puesto no impide la integración de valores, actitudes y habilidades para comprender y autorregular sus emociones, y así mostrar atención y cuidado hacia los demás, como también colaborar y establecer relaciones positivas. En el contexto de la sala de clases, esto conlleva a una baja motivación y autoestima personal y académica, y mayor rechazo por parte de sus compañeros (de Alcenar, 2008).
+* **Necesidades Educativas Especiales relacionadas con el contexto cultural:** Estas pueden ser entendidas como las dificultades culturales que pueden presentar ciertos estudiantes y sus familias durante un momento de su vida escolar, para insertarse y transitar con normalidad o en igualdad de condiciones su proceso educativo. A diferencia de las necesidades educativas especiales de carácter permanente y transitorio, las necesidades educativas relacionadas con el contexto sociocultural están relacionadas con las variables estructurales del entorno de los estudiantes, tales como, por ejemplo, el lenguaje y sus restricciones idiomáticas para la integración social y adaptación académica, es decir, que pueden repercutir en actitudes y conductas que dificultan la adquisición de aprendizajes básicos y/o esenciales. Actualmente, uno de los principales desafíos de las comunidades educativas tiene que ver con el cambio de enfoque hacía una educación intercultural, que permita la integración y desarrollo integral de los estudiantes migrantes y sus familias.
+
+1. **La evaluación diferenciada será una última opción de evaluación**, en el entendido de que la evaluación en general está previamente adecuada y diversificada, y que está diseñada para dar respuestas a las necesidades y fortalezas de los estudiantes, niños y niñas de un determinado nivel. En base a esta premisa impulsada por el Decreto 83, no se requeriría de un instrumento distinto de evaluación. Más bien, la evaluación diferenciada es la opción de evaluación para aquellos estudiantes con mayores retos educativos. La evaluación diferenciada se aplicará de forma temporal a los estudiantes, niños y niñas que requieran mayores retos educativos, previo diagnóstico y/o tratamiento por parte de los siguientes especialistas, a través de un informe:
+
+1. Debe cumplir con los requisitos que la normativa exige Decreto Supremo N° 170, artículos 15º al 19º.
+2. **NO ESTÁN AUTORIZADOS OTROS PROFESIONALES PARA LA EVALUACIÓN Y DIAGNÓSTICO DE LOS ESTUDIANTES.**
+3. Frente a estas necesidades educativas, el Colegio declara en este Reglamento: **NO POSEER PROYECTO DE INTEGRACIÓN (PIE).**
+4. No obstante, lo expresado en el punto anterior, el TGS cuenta con profesionales Psico-Sociales de Apoyo (Profesora Diferencial y Orientadores) que implementarán el PROAT (Programa De Acción Tutorial de acompañamiento Pedagógico y Formación Social).
+5. La Evaluación Diferenciada, en nuestro colegio, es coordinada y supervisada en su cumplimiento por el Área Académica. No obstante, lo anterior, el Programa PROAT, es el responsable de velar por la aplicación y seguimiento de la evaluación diferenciada en los estudiantes que estén en esta situación.
+6. Las disposiciones anteriores regirán para todos los Niveles de Enseñanza.
+7. Se debe dejar en claro, que en el caso de que un estudiante con NEE o con Adecuaciones Curriculares, luego de un acompañamiento en sus aprendizajes y realizadas todas las medidas de adaptaciones pedagógicas, obtenga calificación insuficiente en un prueba en la que se aplicó Evaluación Diferenciada, **la calificación obtenida por el estudiante se mantendrá, ya que se considera aplicada una evaluación atendiendo a las necesidades específicas del estudiante en cuestión.**
+8. Las evaluaciones diferenciadas que se realicen en caso de NEET o NEEP serán definidas por los profesionales del establecimiento e informadas a las respectivas familias. Estas se implementan mediante la administración de instrumentos de evaluación según la situación particular de cada caso, elaborados en conjunto entre el docente de la asignatura y el equipo del área académica y la Educadora Diferencial del establecimiento, quienes deberán tener como referencia el Currículum Nacional y las Progresiones de Aprendizaje en Espiral.
+9. Será responsabilidad del área académica y la educadora diferencial mantener actualizado el registro oficial de estudiantes, niños y niñas correspondientes al programa, como también mantener informado del mismo al equipo de aula. Las decisiones pedagógicas y curriculares del equipo a cargo deben ser avaladas por la Dirección Académica quién informará a la dirección del establecimiento.
+
+### ARTÍCULO 10°: DE LAS ADECUACIONES CURRICULARES
+
+1. Las adecuaciones curriculares se entienden como los cambios a los diferentes elementos del currículum, que se traducen en ajustes en la programación del trabajo en el aula. Consideran las diferencias individuales de los estudiantes con necesidades educativas especiales, con el fin de asegurar su participación, permanencia y progreso en el sistema escolar” (Decreto 83. Mineduc).
+2. Se entenderá “ADECUACIÓN CURRICULAR” como un proceso dinámico y flexible que da respuesta a la diversidad, asegurando un aprendizaje de calidad y el cumplimiento del principio de igualdad de oportunidades. Pretende ajustar o modificar las prácticas educativas, los procesos evaluativos y, de ser necesario, algunos componentes del currículum nacional (Objetivos de Aprendizaje) no afectando los aprendizajes que son imprescindibles.
+3. Las decisiones de implementación de las adecuaciones curriculares deberán considerar como punto de partida toda la información recabada y las indicaciones detalladas en este Reglamento.
+4. Para los estudiantes que presenten NEEP o NEET significativas, se elaborará un Plan de Adecuación Curricular Individual (PACI) o un Plan de Adecuación Individual (PAI) para minimizar las barreras frente al aprendizaje y la participación.
+5. En el diseño y la implementación de la evaluación diferenciada participará el profesor de asignatura y los profesionales que compongan el equipo de aula y en reuniones de trabajo técnico se revisarán las necesidades de cada estudiante y se definirá si se elabora un PLAN PACI o un PLAN PAI.
+6. Una vez acordado el diseño y la implementación de la evaluación diferenciada por el equipo de docentes y profesionales especialistas, se informará al apoderado del mismo tomando conocimiento del PACI o PAI.
+
+### ARTÍCULO 11°: LA DIVERSIFICACIÓN DE LA EVALUACIÓN
+
+1. La diversificación de la enseñanza corresponde a aquella modalidad educativa donde se seleccionan y organizan situaciones de enseñanza de manera que sea posible individualizar y contextualizar la experiencia de aprendizaje para lograr el mayor grado posible de participación y aprendizaje de todos los estudiantes.
+2. La diversificación de la evaluación debe responder adecuadamente a las distintas necesidades y características de los estudiantes de modo que todos puedan demostrar lo que han aprendido.
+3. Para la diversificación de la evaluación los objetivos de aprendizaje y los criterios de evaluación deben mantenerse para todos los estudiantes, independiente de los cambios en el formato o en el tema específico que se aborde en una evaluación en particular.
+4. Se entenderá la **EVALUACIÓN DIVERSIFICADA** como una respuesta pedagógica que utiliza diversas estrategias y procedimientos evaluativos. En este sentido, las estrategias de evaluación diversificadas buscan asegurar tanto la comprensión de aquello que deben demostrar, como su expresión, por parte de los estudiantes; para que éstos no vean limitadas sus posibilidades y se sientan competentes para acceder, participar y progresar en el currículum escolar del nivel que cursan, en concordancia con su grupo etario.
+5. Se implementará la diversificación de las evaluaciones en todos los cursos y asignaturas del plan de estudio, lo que tiene como propósito demostrar el logro de los aprendizajes de los estudiantes, manteniendo los objetivos y los criterios de evaluación correspondientes al nivel.
+6. Para implementar la evaluación diversificada se debiera diversificar la forma en que se evalúa; considerando variados instrumentos de evaluación o bien variando ítems, preguntas o contextos, al interior de cada instrumento.
+7. La evaluación diversificada además debiera respetar los niveles de aprendizaje, la multiplicidad de intereses, formas de aprender y características –culturales, sociales y emocionales de los estudiantes.
+8. Los estudiantes tendrán semestralmente un plan de evaluación que contemple diversas instancias e instrumentos de evaluación, de acuerdo con las unidades curriculares planificadas, resguardando así que accedan a diversas formas de expresar los aprendizajes logrados. Este plan y sus actualizaciones será entregado a estudiantes y apoderados al inicio de cada semestre, por correo electrónico institucional del estudiante.
+
+### ARTÍCULO 12°: DEL PROAT (PROGRAMA DE ACCION TUTORIAL - TGS)
+
+1. El Programa PROAT (Programa Acción Tutorial) estará a cargo de las Unidad Académica (coordinadores de Nivel) y de Formación (orientadores) que depende de la Dirección Académica. Será monitoreado en conjunto con él por el Profesor Tutor y el área de Convivencia Escolar cuando corresponda, en virtud de lo expresado por
+el Decreto N°67, en sus letras m, n y o.
+2. El Objetivo Del PROAT es: Intervenir principalmente a través del Derivamiento, Acompañamiento, Seguimiento y Evaluación de casos de estudiantes con:
+
+* NEE de tipo Transitorias o Permanentes.
+* Alumnos con bajo rendimiento académico o repitentes;
+* Estudiantes con dificultades en el área de convivencia escolar;
+* Estudiantes con problemas de orden psico-socioemocionales;
+* Estudiantes con inasistencia y atrasos crónicos;
+* Alumnos repitentes del año anterior, entre otros casos.
+
+1. El objetivo del PROGRAMA PROAT es dejar evidencias sobre las, estrategias metodológicas, de intervención y de acompañamiento implementadas, criterios, procedimiento de análisis, toma de decisiones de Promoción o Repitencia y las medidas necesarias para proveer el acompañamiento pedagógico de nuestros estudiantes, señaladas en el artículo 12 del decreto exento 67/2018.
+
+**Algunas de sus acciones, serán entre otras:**
+
+* Firmar Carta de Derivación PROAT en marzo o durante el año, con los apoderados, quienes toman conocimiento y autorizan las acciones a implementar en conjunto con el colegio.
+* Confeccionar PACI y PAI para estudiantes que lo requieran.
+* Realizar acompañamiento por medio de algunas de las siguientes acciones:
+
+1. Informar al padre, madre o apoderado del Plan de Acompañamiento al inicio del año escolar, Informar Resultados de Proceso y Definir una Evaluación Final del Plan de Acompañamiento realizado, por Escrito.
+2. Realizar seguimiento de casos por profesionales de Apoyo del colegio al Tutor y el estudiante y su familia.
+3. Observación en aula y/o recreos;
+4. Entrevistas de carácter individual o grupal; según corresponda, con el o la estudiante, el o los docentes, o cualquier otro componente de nuestra unidad educativa, además, del padre y/o apoderado.
+5. Con el objetivo de conocer las razones de una situación determinada, buscar en conjunto soluciones reales, hacer el seguimiento adecuado.
+6. Firmar Compromisos Familiares.
+7. Firmar Documentos sobre Posible Repitencia en julio y noviembre de cada año.
+8. Derivar a profesionales externos cuando corresponda.
+9. Derivar a Redes de Apoyo comunales
+10. Realizar una posterior evaluación del seguimiento
+11. Realizar Evaluaciones Intermedias de proceso
+12. Dar de Alta del PROAT
+13. Seguimiento que será Evidencia en Casos de Repitencia o Posible Repitencia.
+14. Hacer denuncias, cuando corresponda, a las instituciones encargadas, por medidas de protección y/o aquellas que velan por la salud mental y física de los niños.
+15. **DEL PROCEDIMIENTO Y PROTOCOLO INTERNO:**
+
+Ante la necesidad de una Derivación, Acompañamiento, Seguimiento y Evaluación de casos de estudiantes con NEE de tipo transitorias y/o permanentes; alumnos con bajo rendimiento; estudiantes con dificultades en el área de convivencia escolar; y alumnos repitentes del año anterior, por parte del Profesor Tutor o de Asignatura se realizará a través del siguiente procedimiento:
+
+1. La unidad de Formación (Orientadores) y el Área Académica, realizará una reunión individual en el mes de marzo con cada Profesor Tutor para revisar los casos de años anteriores o casos nuevos.
+2. Se llenará la Pauta de Derivación PROAT y se deberá realizar una Entrevista con el Apoderado, el tutor y/o el Profesional del Área de Formación y/o Académico para la firma de la Derivación PROAT y que los Apoderados tomen conocimiento y autoricen, las acciones a implementar en conjunto con el colegio.
+3. Se debe dejar registro por escrito de esto.
+4. Esto no podrá ser más allá de la 2° semana de abril.
+5. El documento será entregado a la Unidad de Formación, por parte del Profesor Tutor firmado por el apoderado.
+6. La unidad de formación **tendrá 10 días hábiles** para responder al profesor que deriva la situación del estudiante y las recomendaciones que se consideren en cada caso.
+7. Se podrá derivar a un especialista externo para una evaluación formal y /o
+
+tratamiento, cuando corresponda, para que se emita un Diagnóstico al estudiante y emitir un Informe Específico de Evaluación Diferenciada requerida.
+
+1. Este informe debe ser entregado por el apoderado al colegio, directamente a la Educadora Diferencial, **la cual lo remitirá al archivo que corresponda del EGE**, luego de haberlo recibido.
+2. La Unidad de Formación en conjunto con él Área Académica y la Educadora Diferencial, orientará a los profesores, respecto a la a las necesidades educativas especiales de los estudiantes y la toma de decisiones relacionadas a las adecuaciones curriculares correspondientes según el caso, y los instrumentos utilizados para dar respuesta a estas necesidades ( mediante un PACI o PAI). Se realizará el seguimiento y monitoreo de estos procesos, siempre con la presencia y seguimiento del Profesor Tutor.
+3. La Unidad Formación en colaboración con el área académica y /o Educadora diferencial, elaborarán y actualizarán un Informe Semestral con todos los casos derivados, su diagnóstico, estrategias metodológicas y Evaluación Diferenciada, cuando corresponda. Este informe será socializado y actualizado regularmente con todos los profesores del colegio.
+4. El docente de cada asignatura aplicará la Evaluación Diferenciada de acuerdo con la necesidad NEE diagnosticada por un especialista competente, de acuerdo a lo expresado en este Reglamento en los Artículos N° 9 y N° 10.
+5. El área de formación, área académica y /o Educadora diferencial, trabajará e informará al profesor tutor y al apoderado en forma escrita y en reunión, de todo el proceso a desarrollar con su hijo(a), como también del compromiso y apoyo que se requiere por parte de la familia.
+6. **DEL PERÍODO DE PRESENTACIÓN Y VIGENCIA DE CERTIFICADOS MÉDICOS:**
+
+* El plazo de presentación de antecedentes será el último día hábil del mes de marzo, sea esta evaluación solicitada por el apoderado, profesor de asignatura o profesor tutor.
+* Las solicitudes emergentes (durante el transcurso del año), posteriores a la fecha indicada, serán entregadas a la Educadora Diferencial o de no ser posible a la Unidad de Formación y/o en Coordinación con el Área Académica del establecimiento, quiénes evaluarán y resolverán la situación pertinente, con los profesionales correspondientes, evaluando si son de acceso, permanentes o transitorias.
+* **La Evaluación Diferenciada se debe renovar cada año escolar**, ya que los Informes Médicos de los Especialistas **duran 1 año desde su fecha de emisión** y considerando que las dificultades se proyectan como potencialmente superables, cuando se han aplicado las estrategias de apoyo adecuadas.
+
+1. La existencia de Evaluación Diferenciada no altera la aplicación del Reglamento de Evaluación, Calificación y Promoción y de Normas Convivencia Escolar y en ningún caso exime a los alumnos de asistir regularmente a clase.
+2. La solicitud emergente para evaluación diferenciada será de facultad de la Dirección Académica del colegio su recepción y posible autorización.
+
+### ARTÍCULO 13°: DE LA EXENCIÓN DE ASIGNATURAS
+
+1. Los alumnos(as) de Enseñanza Básica y Media serán evaluados en todos las asignaturas de aprendizajes del Plan de Estudio de acuerdo con el nivel de logro de objetivos, en los períodos semestrales, es decir, **los alumnos no podrán ser eximidos de ninguna asignatura del plan de estudio** y deben ser evaluados en todos los cursos y en todas las asignaturas que dicho plan contempla.
+2. Así también declaramos que los estudiantes que tengan impedimentos físicos para realizar la asignatura de Educación Física y Salud en forma parcial o anual cumplirán Objetivos de Aprendizaje dentro de los Planes y Programas del nivel, que no requieran de un desarrollo de actividad física, realizando las adecuaciones curriculares necesarias.
+3. Específicamente, para los estudiantes con NEE ( según el decreto N° 170/2009), se aplicarán un conjunto de procedimientos evaluativos derivados del monitoreo y de la observación sistemática del proceso de aprendizaje, entre las que se encuentran: Las mencionadas en los artículos del 9° al 12° de este reglamento, es decir, se realizarán las adecuaciones curriculares necesarias que están dispuestas en el decreto exento N° 83/2015.
+
+### ARTÍCULO 14°: SOBRE LA EVALUACIÓN DE OBJETIVOS FUNDAMENTALES TRANSVERSALES
+
+1. Los Objetivos Aprendizajes Transversales (OAT), responden a aquellos aprendizajes que
+tienen un carácter comprensivo y general, orientado al desarrollo personal, a la conducta moral, social e intelectual de los estudiantes.
+2. Están definidos por el colegio en las siguientes áreas:
+1. Crecimiento y Autoafirmación personal.
+2. Área de formación ética
+3. La persona y su entorno.
+4. Área de Emprendimiento.
+5. Compromiso con la Convivencia Escolar.
+6. Compromiso Familiar con la institución.
+3. Los OAT, como parte constitutiva del currículum, se desarrollan a través de las distintas disciplinas, la asignatura de Orientación y forman parte del Programa de Fortalezas del Carácter que cruzan todo el proceso educativo del establecimiento.
+4. Se entregará 1 vez al Semestre un Informe de Personalidad a los padres y apoderados.
+
+### ARTÍCULO 15°: DEL CRONOGRAMA DE EVALUACION SEMESTRAL
+
+1. En la misma lógica de integración de los padres y apoderados se entregará en el Mes de Marzo y Agosto de cada año, un Cronograma de Evaluaciones, considerado en la Planificación de cada asignatura y su correspondiente Ponderación Académica. La suma de las Ponderaciones constituirá la Calificación del Semestre.
+2. El cronograma deberá ser entregado a los Coordinadores académicos de Básica y Media con a lo menos 1 mes de anticipación, quien será responsable de comunicar dicho calendario a los estudiantes, madres, padres y apoderados antes de comenzar el semestre.
+3. Las Evaluaciones que impliquen una calificación parcial (sumativa o formativa) deberán ser registradas en el libro de clases e informadas por escrito a los(as) estudiantes y apoderados.
+4. Deberá incorporarse, además, en el libro de registro de materias, el análisis posterior hecho con los (las) estudiantes, respecto de los resultados de la evaluación y los eventuales aspectos deficitarios del aprendizaje que será necesario trabajar nuevamente o retroalimentar.
+5. Se sacarán multicopias con **72 horas hábiles de anticipación,**previa a su aplicación POR LO QUE DEBEN SER ENVIADAS A LOS COORDINADORES PEDAGÓGICOS CON ANTELACIÓN PARA SU AUTORIZACIÓN.
+
+### ARTÍCULO 16°: PONDERACIÓN Y CANTIDAD DE EVALUACIONES POR SEMESTRE
+
+1. Todos los cronogramas deben considerar las siguientes ponderaciones y cantidad de evaluaciones:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **NÚMERO DE HORAS** | **TEST INICIAL** | **AUTO EVALUACION** | **PONDERACIÓN MÁXIMA POR SEMESTRE** | **NÚMERO DE EVALUACIONES MÍNIMAS** |
+| **Asignaturas de 1 a 3 horas semanales** | **10 %** | **10%** | **30%** | **5 EVALUACIONES** |
+| **Asignaturas de 4 o más.** | **10 %** | **5%** | **25 o 30 %** | **6 a 7 EVALUACIONES** |
+| **Nota:**   1. EN EL CASO DE OCUPAR UNA PONDERACIÓN DE 25 O 30% **NO PODRÁ HABER OTRA CALIFICACIÓN SUPERIOR AL 20%.** 2. PAES Y APTUS TENDRÁ UNA **PONDERACIÓN DE 10%** EN LAS ASIGNATURAS QUE LA RINDEN. 3. **NO SE PODRÁ CERRAR LOS PROMEDIOS** DE LAS ASIGNATURAS QUE RINDAN ESTAS EVALUACIONES HASTA HABER OBTENIDO EL CIERRE DE SUS PONDERACIONES PARA SUMARLAS AL PROMEDIO DE LA ASIGNATURA. 4. CÁLCULO MENTAL Y LECTURAS COMENTADAS PODRÁN TENER UNA PONDERACIÓN DE UN 5% A UN 10 %. | | | | |
+
+1. Al inicio de cada semestre, los profesores deben comunicar a sus estudiantes acerca de los procedimientos e instrumentos de evaluación que se utilizarán y el número de calificaciones de cada asignatura.
+2. **A los estudiantes No se les podrá evaluar**:
+3. Dos evaluaciones con ponderación igual o superior al 20% en el mismo día.
+4. Una evaluación con ponderación del 30% y una evaluación con ponderación
+igual al 20% en el mismo día.
+5. **A los estudiantes SI se les podrá evaluar:**
+6. Dos evaluaciones con ponderaciones igual o inferior al 15% en el mismo día.
+7. Una evaluación con ponderación 20% y una evaluación con ponderación
+igual o inferior al 15%. Siempre que ellas estén debidamente registradas en el Calendario de Evaluaciones Semestrales y Anuales publicado en la Sala de y estén informados los(as) estudiantes y apoderados, vía Agenda Electrónica oportunamente.
+
+### ARTÍCULO 17°: PROCEDIMIENTOS SOBRE LA EVALUACIÓN
+
+1. El Consejo de Profesores, se reunirá 1 vez por mes por áreas:
+1. Consejos: Reuniones de Pauta General
+2. Jefaturas de Departamentos
+3. Tutorías
+4. Consejos: Reuniones de Pauta General o de otro tipo.
+
+Para compartir y discutir temas referentes a: estrategias de evaluación, estrategias de enseñanza, metodologías de evaluación, metodologías de enseñanza, estrategias de mejora, entre otros.
+
+De dichas reuniones, quedará evidencia escrita de temas tratados y acuerdos tomados.
+
+Además, se generarán durante cada semestre, al menos dos instancias reflexivas (inicio de mayo y fines de julio e inicio de octubre y fines de diciembre) respecto del rendimiento académico de los estudiantes, basándose en las calificaciones registradas en los libros de clases, en los registros personales de docentes por evaluaciones formativas y en los aportes que cada uno pueda realizar respecto de cada curso.
+
+1. A través de la reunión semanal con los coordinadores académicos y los profesores tendrán el espacio para discutir y acordar criterios de evaluación y tipos de evidencia centrales en cada asignatura, fomentando un trabajo colaborativo para promover la mejora continua de la calidad de sus prácticas evaluativas y de enseñanza. Estas instancias también se utilizarán como espacio para reflexión y toma de decisiones centradas en el proceso, el progreso y los logros de los aprendizajes de los estudiantes.
+2. La Dirección Académica podrá gestionar otras mediciones Sumativas de Medición de Aprendizajes durante el Proceso del Semestre o al Término de Semestre a Nivel Institucional, en forma interna o con Instituciones Externas que serán informadas en un calendario anual y tendrá una ponderación semestral del 10% en las asignaturas que corresponda.
+
+### ARTÍCULO 18°: LAS AUSENCIAS A LAS EVALUACIONES
+
+1. Como familia Gardeniana integramos en el quehacer educativo a los padres y apoderados,
+por esta razón se establece que, en el caso de ausencia del estudiante a cualquier tipo de evaluación que haya sido programada con antelación en alguna asignatura, el apoderado deberá justificar la ausencia a la evaluación acorde a alguno de los siguientes procedimientos:
+2. Si posee certificado médico, puede presentarlo personalmente al regresar a clases o enviarlo por correo electrónico a inasistencias@colegiotgs.cl, donde se registrará en el libro digital de clases.
+3. La evaluación pendiente será recalendarizada al retornar a clases con una nueva fecha de aplicación, bajo las siguientes condiciones:
+
+* Debe ser una nueva evaluación.
+* Medir los mismos objetivos
+* Igual nivel de exigencia al 60%
+* Rendida en el horario de la asignatura.
+
+1. En caso de ausencia a una Recalendarización, los coordinadores académicos de cada nivel, se contactarán con los apoderados para reorganizar lo pendiente.
+
+1. **Ausencias sin Justificación ni Certificado Médico:**
+
+De no haber justificativo médico o del apoderado, la coordinación académica y o el profesor de la asignatura deberá tomar dicha medición en una de las siguientes situaciones:
+
+1. El apoderado deberá presentarse al momento de regresar a clases con los coordinadores académicos, para justificar y poder recalendarizar la evaluación. Se rendirá de acuerdo a la letra B del Punto 1 anterior.
+2. **Sin Justificación:** En caso de no tener certificado médico o no presentación del apoderado a justificar, el o la estudiante deberá rendir la nueva evaluación con un **aumento de la exigencia al 65% y midiendo los mismos objetivos.**
+3. El profesor de asignatura inmediatamente a la reincorporación a clases del estudiante **EN EL HORARIO DE LA ASIGNATURA, TOMARÁ LA EVALUACIÓN PENDIENTE.**
+4. En caso de Certificados deportivos, artísticos o viajes: Este tipo de justificativos serán autorizados exclusivamente por Dirección Académica, quién evaluará en su mérito la solicitud para darle curso o no. Se informará a los coordinadores la decisión tomada.
+5. **Casos con Procesos Académicos Incompletos:**
+
+4.1 Aquellos estudiantes, que, por razones debidamente justificadas, presenten proceso
+
+semestral incompleto, serán sometidos a un calendario especial de evaluaciones
+elaborado por la Coordinación Académica y sus profesores(as) tutores (as), el cual
+será informado al apoderado y el estudiante vía Agenda Electrónica o entrevista.
+
+4.2 Aquellos estudiantes, que por razones de salud u otras debidamente justificadas y que se encuentren matriculados al inicio del primer semestre escolar, y que no
+puedan asistir a clases durante el primer semestre, podrán solicitar a Dirección
+Académica la posibilidad de rendir solo el 2º semestre escolar y será el Equipo de
+Gestión del colegio, quien definirá la solicitud del apoderado, en virtud de los
+antecedentes presentados.
+
+1. **El o la estudiante, cuyo apoderado lo retire del establecimiento durante la jornada de clases, solo lo podrá hacer después de rendir la(s) evaluación(es) programadas.**
+2. **NO SE PODRÁ DEJAR A ESTUDIANTES DESPUÉS DE SU HORARIO DE CLASES PARA RENDIR EVALUACIONES PENDIENTES**.
+3. **Retiro de estudiantes, durante evaluaciones:**
+
+Durante una evaluación, no se permitirá el retiro de los estudiantes, por parte de apoderados, a menos que cuenten con una hora médica o certificado de atención. En caso de que la evaluación sea más tarde, se requerirá la presentación de dicha documentación a los Coordinadores Académicos, en caso contrario, no podrá ser retirado.
+
+Además, solo el apoderado titular podrá retirar al estudiante del establecimiento.
+
+En situaciones excepcionales donde un apoderado distinto al titular deba retirar al estudiante, podrá enviar un correo electrónico a Miss Lorna León (lorna.leon@colegiotgs.cl) con una fotografía de la cédula de identidad de la persona que retirará, con la autorización correspondiente antes del retiro.
+
+### ARTÍCULO 19°
+
+**DE LAS EVALUACIONES ESCRITAS**
+
+1. Cada instrumento evaluativo sumativo, tipo prueba escrita, debe cumplir con los requerimientos planteados en este reglamento.
+
+2. Todas las evaluaciones Sumativas, deberán incorporar ítems de Comprensión Lectora y Resolución de Problemas o Ejercicios Tipo Evaluaciones Estandarizadas, acordes a la
+naturaleza de cada asignatura.
+
+3. En las evaluaciones de tipo sumativa, de la Asignatura de Lenguaje y Comunicación, a partir del 2º año se Enseñanza Básica a 4º año de Enseñanza Media, un ítems de Comprensión Lectora, en todas las evaluaciones que se realicen.
+
+4. La asignatura cuenta con un Programa Lenguaje y Comunicación se trabajará con:
+
+1. Un Plan de Lecturas Complementarias de un libro mensual, de diferente
+complejidad de acuerdo a cada nivel. Este listado deberá ser entregado a
+los(as) estudiantes y apoderados al inicio del año escolar, con textos
+pertinentes a la edad y etapa de crecimiento, como una forma de contribuir
+con el desarrollo de habilidades cognitivas de orden superior y por el gusto
+por la lectura.
+2. Lecturas Diarias
+3. Lectura de Cuentos
+4. Lecturas de Comentadas
+5. Fluidez Lectora
+6. Escritura Libre
+7. Expresión Oral
+
+5. En todas las pruebas de la Asignatura de Matemática, deberá incorporarse la Resolución de Problemas o Ejercicios Tipo Evaluaciones Estandarizadas, según corresponda al eje temático que se esté evaluando.
+
+6. En las horas de matemática en todos los niveles de 1º básico a IV medio se deberá considera realizar ejercicios de Cálculo Mental en las 4 operaciones básicas u otros cálculos más avanzados para los estudiantes de cursos superiores.
+
+7. En la Asignatura de Ciencias Naturales, Historia y Geografía y Ciencias Sociales las evaluaciones deberán incorporar ítems de Comprensión Lectora, con preguntas cuyas respuestas impliquen diferentes niveles de complejidad según corresponda, de habilidades cognitivas de orden superior para el aprendizaje esperado.
+
+8. De acuerdo con los criterios ya señalados en este Reglamento, la evaluación de los(as) estudiantes estará en relación con los desempeños demostrados en el logro de los aprendizajes y contenidos de los programas respectivos. Por tanto, en aquellas áreas de carácter Artístico, Tecnológico y Educación Física y Salud, se debe evaluar, en función de lo Planificado, el avance progresivo en el logro de las habilidades y destrezas, incorporadas en los instrumentos ya sugeridos en la descripción de la evaluación formativa y sumativa, con rúbricas y criterios de evaluación previamente informados a los (las) estudiantes.
+
+9. Respecto a los instrumentos de evaluación, el Área Académica revisará previamente los contenidos relevantes, las preguntas, ítems necesarios, asignación de puntajes por ítem y los resultados que obtengan los alumnos(as).
+
+10. Los docentes DEBERÁN RESPETAR LAS FECHAS PROGRAMADAS el Cronograma de
+Evaluaciones, que se confeccionará en conjunto con las Planificaciones. Cualquier
+modificación será acordada entre la Dirección Académica y él o los profesores responsables.
+
+11. Los alumnos(as) y apoderados, deberán ser siempre informados previamente sobre
+los contenidos y del tipo de instrumento de evaluación que se utilizará.
+
+12. Una vez acordada la fecha no habrá postergación.
+
+13. Ante situaciones de excepción, el docente debe informar a Dirección Académica quien, en conjunto, resolverá la nueva fecha.
+
+14. La asistencia de los alumnos a todo procedimiento de evaluación previamente fijado **es obligatoria**.
+
+### ARTÍCULO 20°
+
+FORMALIDAD DE LAS EVALUACIONES
+
+Todos los instrumentos escritos aplicados deberán cumplir con el siguiente formato Institucional:
+
+1. El Logo Institucional, nombre del Centro Educativo y Nombre del Profesor responsable de la elaboración del procedimiento evaluativo.
+
+2. El instrumento de evaluación deberá consignar en la parte superior de la primera hoja las siguientes formalidades:
+
+* El nivel, curso, fecha de aplicación,  Asignatura
+* Prema para la nota 4.0 (60%)
+* Porcentaje de Ponderación de la Evaluación
+* Calificación Alcanzada Ponderada
+* Aprendizajes por evaluar,
+* Puntaje por ítems, y total,
+* Criterios de rendimiento por ítem para el Prema,
+* Instrucciones generales para su desarrollo,
+* Espacio a completar por el o las estudiantes para registrar su nombre completo
+(siempre que no se use hoja de respuesta)
+* Niveles de la Taxonomía Bloom-Anderson considerados
+
+### ARTÍCULO 21°
+
+DE SITUACIONES ESPECIALES DE EVALUACIÓN
+
+1. **Retroalimentación, Nivelación y/o Reforzamientos:**
+
+Durante el proceso de aprendizaje, los profesores deberán velar por realizar actividades de retroalimentación continua como también, acciones de reforzamiento, nivelación y ejercitación permanente con el fin de atender las dificultades que presente los alumnos durante el año.
+
+También se deberán desarrollar actividades para atender a los más aventajados que les permitan profundizar o ampliar los objetivos en las unidades que se están desarrollando, para ello se podrá recurrir a actividades complementarias de los libros de texto, guías de estudio, etc.
+
+*Cuadro N° 3: Retroalimentación*
+
+2. **Negación a rendir una evaluación**
+
+El estudiante que se niegue a rendir alguna evaluación o a realizar algún trabajo, deberá proceder de la siguiente forma:
+
+1. El docente **debe solicitar que lo ponga por escrito su decisión de negarse a rendir la evaluación, en el mismo instrumento evaluativo.**
+2. Una vez informado al área académica, deberá rendir la evaluación en el horario que determine la coordinación y el Profesor de la asignatura en que presentó la situación.
+3. Esta nueva oportunidad de rendir la evaluación debe considerar:
+
+* Medir fidedignamente los aprendizajes alcanzados.
+* **Se deberá modificar** el formato, tipo ítems, Número de preguntas, tipo de Evaluación (Orales, Presentación, Trabajos Escritos, etc.) entre otras
+medidas que se evalúen en su momento.
+* No se podrá modificar el prema de exigencia que le corresponda por nivel.
+* Tampoco se podrá fijar una **nota 4.0 como nota máxima.**
+
+1. Sin embargo, luego de haber facilitado todos los mecanismos de resolución frente a lo expresado en el Artículo 18° de este reglamento, el **estudiante
+persiste en la negativa a rendir la evaluación, se procederá a ser calificado
+con la nota mínima** de acuerdo a su curso y se debe pedir que el estudiante
+firme su evaluación.
+2. La evaluación no se entregará al estudiante y quedará como evidencia de la
+situación en Dirección Académica, informando Vía Agenda Electrónica y/o en
+Entrevista al apoderado, por parte del jefe técnico junto al docente de la
+asignatura.
+3. Frente a esta situación, también cabe aplicar el Reglamento de Convivencia Escolar
+y el Profesor Tutor y/o Orientador (a), tendrán la misión de indagar con mayor
+precisión la causa de la conducta del o la estudiante y proponer un plan de
+orientación. De repetirse esta situación se aplicarán las sanciones que el Reglamento de Convivencia escolar define, las cuales pueden llegar a una Condicionalidad Académica.
+
+3. **Ausencia a evaluaciones por inasistencia crónica prolongada y justificada**.
+
+1. La Dirección Académica o las Coordinaciones Académicas, en conjunto con el Profesor Tutor y los Profesores de asignatura, confeccionará un calendario especial para que el o la estudiante con inasistencia prolongada debidamente justificada, normalice su situación de calificaciones. Este calendario se pondrá en conocimiento del o la estudiante y del apoderado en forma escrita.
+2. Si la ausencia excede al 40% del semestre, el estudiante deberá rendir una PRUEBA ESPECIAL donde se considerarán los objetivos del nivel que NO tienen continuidad en la progresión espiral del curriculum para el curso superior, al término del semestre o al inicio del siguiente.
+3. No obstante, dependiendo del motivo que justifica su ausencia, y previa revisión de los antecedentes por la Dirección Académica del Colegio, el o la estudiante podrá quedar sin notas el Primer Semestre y su calificación final será la nota del Segundo Semestre.
+4. **Término del año escolar anticipado.**
+5. El colegio considera que es fundamental que los estudiantes participen de las actividades comunitarias con su curso, nivel y colegio, además de tener que cumplir con las exigencias curriculares asociadas a las asignaturas, por lo que de modo general no realiza cierres anticipados del año escolar.
+6. No se aplicará en ninguna circunstancia, para resolver dificultades familiares.
+7. No Obstante lo anterior y dependiendo de la situación en particular de cada estudiante y de acuerdo al motivo por el cual se origina la ausencia (embarazo, servicio militar, enfermedad grave, viaje fuera de Chile, certámenes nacionales o internacionales del área del deporte, literatura, ciencias y artes, becas u otras situaciones especiales, etc.), la Dirección Académica, previa consulta de los antecedentes de Certificados Médicos, Documentos que certifiquen certámenes, Eventos, que cumplan dentro de los plazos establecidos, presentará el caso a la Dirección del Colegio quien determinará si él ola estudiante puede ser promovido sin el promedio de asistencia exigido, siempre que tenga un rendimiento académico que así lo permita.
+8. **Adjudicación de becas y pasantías**: Aquellos estudiantes que se adjudiquen becas o participen en pasantías podrán ser evaluados con menor número de calificaciones en las asignaturas establecidas y, en forma especial, usando diferentes procedimientos evaluativos que les permitan demostrar un logro de objetivos de aprendizaje.
+9. **Servicio militar:**  El estudiante que deba cumplir con su servicio militar conservará su vacante en el establecimiento. El colegio dará facilidades a los estudiantes en caso de ser requeridos para prestar servicios en el Servicio Militar, pudiendo realizarse un cierre anticipado del año según lo descrito en el punto 4 de este mismo artículo.
+10. **Frente a situaciones de embarazo**, el establecimiento realizará un acompañamiento para que la alumna continúe sus actividades normalmente, sin embargo, cada situación se analizará en su contexto, respetando la normativa vigente. Se citará al apoderado para que firme un documento donde se le da a conocer el Protocolo de Estudiante Embarazada del colegio y las acciones de acompañamiento que el colegio realizará con ella.
+
+**Algunas Consideración de Evaluación en Caso de Embarazo:**
+
+1. Debe asistir como alumna regular en uno de los semestres académicos.
+2. Durante ese período, debe cumplir con el Reglamento Institucional y de Evaluación establecido para los alumnos regulares.
+3. Recibirá todo el apoyo que establece nuestro Protocolo de Retención de Embarazadas y madres, el cual establece claramente sus derechos
+y deberes.
+4. La estudiante firmará una carta compromiso, en presencia de su apoderado, en la cual quedará establecido claramente todo lo señalado en los puntos anteriores. De esta forma, se cautelará que la estudiante asista al colegio y curse satisfactoriamente su año escolar.
+5. **SITUACIÓN DE EXCEPCIÓN:** Si la estudiante presenta un embarazo en medio del año escolar (léase, entre ambos semestres), se llevará esta situación al Consejo de profesores para evaluar el caso en particular y acordar las medidas adecuadas para permitir que la alumna termine su año escolar.
+6. **Estudiantes que se niegan a entregar la evaluación:**
+
+Si un estudiante habiendo asistido a la evaluación y una vez terminada ésta, no la entrega en forma intencionada para ser corregida, al ser comprobada su falta, se le evaluará en FORMA ORAL respetando los objetivos planteados para la evaluación, pero se faculta al docente a cambiar el tipo de preguntas o rúbrica, manteniendo a lo menos un porcentaje similar de preguntas que la evaluación original.
+
+1. **Ingreso Tardío a Clases:**
+
+Podrán incorporase en forma tardía al año académico los estudiantes que cumplan las siguientes condiciones:
+
+a) Que vengan trasladados de otro colegio y siempre y cuando haya vacante en el nivel
+al que debe asistir.
+
+b) Los traslados de otro colegio, deben venir acompañados del Informe de Notas
+parciales e Informe de Personalidad, Certificado de Traslado del colegio de origen.
+
+c) Los alumnos(as) que ingresen después del 30 de abril deben traer notas del colegio
+de origen o si no las traen, se ajustará las Ponderaciones de la Evaluaciones del
+Primer Semestre, es decir, deberán cumplir con la progresión de aprendizajes
+esperados desde las evaluaciones a partir del 15 de mayo en adelante.
+
+d) **NO SE ACEPTARÁ A ALUMNOS QUE INGRESEN EN EL SEGUNDO SEMESTRE**, a no ser que se presente una solicitud a Dirección del Establecimiento por parte del apoderado que postula y debidamente consultados al Consejo de Profesores,
+se podrá autorizar un ingreso en el 2º semestre académico, pero deberá tener su Primer Semestre o Trimestre terminado en el colegio de origen, con nota 6.0 en
+Lenguaje, Matemática e inglés y promedio general 6,0.
+
+f) El Coordinador de nivel, ingresará las notas parciales al libro de clases e ingresará al Estudiante Nuevo al sistema informático en las asignaturas correspondientes y entregando al Profesor tutor el informe parcial de notas para que este(a) informe de ello al alumno(a) y apoderado(a).
+
+g) Los alumnos(as) ingresados después del 15 de mayo no podrán quedar en situación
+pendiente después del 1° semestre.
+
+h) La Fundación Educacional Garden School, ha definido que no se abrirá cupos en 4° medio para el proceso SAE.
+
+1. **Suspensión de clases por tiempos Prolongados:**
+
+De producirse la suspensión de clases ya sea por 1 o más días, se deberá informar a la Dirección Provincial de Educación de Talagante y se debe presentar un calendario de recuperación que se ajuste a los tiempos y normativas emanadas por el Mineduc.
+
+1. **Estudiantes sorprendidos copiando y/o prestando ayuda a otro estudiante o faltando
+a la honradez en un procedimiento evaluativo.**
+
+1. Si una alumna o alumno es sorprendido faltando a la honradez frente a un procedimiento evaluativo: Por ejemplo, ser sorprendido copiando o ayudando a otro estudiante a responder sus evaluaciones; hacer mal uso del libro de clases por parte de un estudiante -borrar o colocar notas-, entregar como propio un trabajo ajeno o copiar de manera textual, “sin utilizar citas” información de cualquier medio u otras situaciones no especificadas, será el profesor en conjunto con Dirección Académica y Dirección de Convivencia Escolar, quienes están facultados para adoptar la medida que se estime pertinente para comprobar el nivel de logro de aprendizaje del estudiante, de preferencia en el momento de detectar la falta, por medio de **UNA INTERROGACIÓN ORAL.**
+
+De negarse se aplicará lo estipulado en el Artículo 20° número 6. La situación deberá ser registrada en el libro de clase, indicando la situación en que incurrió y la medida adoptada.
+
+2. El Colegio Talagante Garden School considera la copia como la reproducción literal, ya sea digital (Traductor o Inteligencia Artificial) o material (compra, arriendo o transacción de información o trabajos), desde una fuente que no sea propia. Asimismo, se entiende el plagio como la acción de copiar en lo sustancial obras ajenas, presentándolas como propias.
+
+Los estudiantes están obligados a citar adecuadamente las fuentes de las referencias bibliográficas que se mencionen en sus trabajos, informes u otras actividades académicas, según la norma APA 6 o vigente según corresponda.
+
+El incumplimiento de esta política será considerado como una falta grave y estará sujeto a las medidas disciplinarias correspondientes en el Art° 21 n°11 según lo establecido en el reglamento interno del colegio.
+
+Adicionalmente, se citará al apoderado para informar la situación por parte de la Jefatura Técnica junto al docente de la asignatura involucrada para que tome conocimiento y se evaluará la sanción en virtud del Manual de Convivencia Escolar del colegio, por parte del Área de Convivencia Escolar.
+
+1. **De la Apelación a una Evaluación Entregada.**
+2. Ante cualquier duda que se tenga respecto de los criterios de corrección de evaluaciones escritas, rúbricas, trabajos evaluados, etc. el alumno o el apoderado tiene un plazo de 48 horas hábiles después de haber recibido la calificación y el instrumento, para acercarse al docente de la asignatura y realizar las consultas correspondientes o la corrección si se
+requiere.
+3. **Sobre el abandono de una evaluación de cualquier tipo:**
+4. Si el estudiante se retira de una evaluación sin autorización, quedará registrado en el libro de clases como “abandono de una evaluación”, aplicando el Manual de Convivencia.
+5. En conjunto, será derivado a Orientación, quien justificará o no la situación. Con ello, el estudiante será citado fuera de horario de clases a rendir la evaluación, atendiendo a las medidas consideras en el presente reglamento. Si la situación no es justificada por Orientación, el estudiante será evaluado a través de UNA INTERROGACIÓN ORAL. De no presentarse se aplicará el reglamento de evaluación.
+6. **Evaluación de asignaturas con baja carga horaria:**
+
+En consideración al tiempo disponible para evaluar con promedio ponderado debido al cierre anticipado del año lectivo en los cursos de IV° medios, se establece que algunas asignaturas con 1 o 2 horas semanales, como podrán ser: Educación Física y Salud, Música, Educación Ciudadana, Filosofía y Ciencias para la Ciudadanía. Las que podrán ser cerradas utilizando el promedio aritmético como método de evaluación, conllevando tener menos calificaciones que lo exigido en el artículo 16°.
+
+Además, la asignatura de Tecnología (desde 1° a 8° básico) debido a poseer 1 hora semanal, también se deberá regir por el mismo sistema de calificaciones antes mencionado.
+
+Esta decisión será tomada por Dirección Académica en consulta con el cuerpo docente respectivo y será comunicada previamente a los estudiantes afectados.
+
+Cabe destacar que esta medida se aplicará excepcional y únicamente cuando sea necesario para garantizar una evaluación justa y completa del aprendizaje de los estudiantes.
+
+#### N° 15 — Evaluación como medida de presión:
+
+Las evaluaciones sumativas registradas en el libro de clases por el o la docente no podrán ser utilizadas como medida de presión o aviso hacia el estudiante para que desarrolle o envíe una evaluación pendiente de entrega.
+
+El Colegio Talagante Garden School reconoce que las evaluaciones deben ser instrumentos de medición del aprendizaje del estudiante y no deben ser empleadas como herramientas coercitivas o de presión para obtener resultados o comportamientos deseados.
+
+Cualquier situación en la que se empleen las evaluaciones de manera inapropiada con fines de presión será considerada una violación a las normas de ética académica establecidas en el reglamento interno del colegio.
+
+#### N° 16 — Cambio o Modificaciones de Calificaciones Registradas en el Libro Digital:
+
+Una vez registradas las calificaciones en el libro digital de clases, no podrán ser modificadas o reemplazadas por las o los docentes. En caso de ser necesarias enmiendas, estas deberán ser realizadas exclusivamente por los Coordinadores Académicos, quedando su registro debidamente documentado y autorizado por la Dirección Académica.
+
+Cualquier cambio o modificación de calificaciones por parte de un docente sin la debida autorización será considerado una infracción y estará sujeto a lo estipulado en el reglamento interno del colegio.
+
+Esta medida busca garantizar la transparencia y la integridad en el proceso de evaluación académica, así como asegurar que cualquier ajuste en las calificaciones sea realizado de manera justa y bajo los procedimientos establecidos por la institución educativa.
+
+### ARTÍCULO 22°
+
+SOBRE LOS ESPACIOS DE REFLEXIÓN PEDAGÓGICA DE LOS PROFESIONALES DE
+EDUCACIÓN.
+
+1. Los docentes tendrán dentro de su carga horaria (horas de colaboración) considerado el tiempo para poder realizar Reflexión Pedagógica y Técnica en conjunto, a saber:
+
+a) Reuniones de Departamento (2 horas a la semana)
+
+b) Consejo de Profesores (2 horas a la semana)
+
+c) Reuniones Técnicas con la Coordinadora Académica (1 hora a la semana)
+
+1. En estos espacios los docentes y el Equipo de Gestión podrán analizar y acordar criterios
+evaluativos, tipos de evidencia centrales en cada asignatura o departamento, fomentar el
+trabajo colaborativo, seguimiento de casos o cursos, con el objetivo de promover la mejora
+continua de la calidad y sus prácticas evaluativas y de enseñanza, de conformidad a lo
+dispuesto en el Decreto con fuerza de ley N° 01/2006, del Mineduc.
+2. Los docentes dentro de sus horas de colaboración tendrán un 40% de ellas para el
+desarrollo de trabajo técnico independiente, como, por ejemplo: construcción de
+evaluaciones, corrección de las mismas, atención de apoderados, entre otras.
+3. El Consejo de Profesores, se reunirá periódicamente para compartir y discutir temas referentes a: estrategias de evaluación, estrategias de enseñanza, metodologías de evaluación, metodologías de enseñanza, estrategias de mejora, entre otros. De dicha reunión, quedará evidencia escrita de temas tratados y acuerdos tomados.
+4. Además, se generarán durante cada semestre, al menos una instancias reflexiva respecto del rendimiento académico de los estudiantes, basándose en las calificaciones registradas en los libros de clases, en los registros personales de docentes por evaluaciones formativas y en los aportes que cada uno pueda realizar respecto de cada curso.
+
+**f) Reuniones de Coordinación Departamental:**
+
+En caso de ausencia del jefe de departamento a una o más reuniones departamentales, dichas reuniones serán lideradas por los coordinadores académicos del nivel correspondiente, de acuerdo con la temática registrada en el acta digital de la plataforma LIRMI.
+
+Es responsabilidad del jefe de departamento asegurarse de registrar con antelación la temática de cada reunión de departamento en el acta digital mencionada anteriormente.
+
+**Detallando:**
+
+* *Fecha*
+* *Asistentes*
+* *Objetivos*
+* *Temas por tratar*
+* *Acuerdos*
+
+Esta medida tiene como objetivo garantizar la continuidad y efectividad de las reuniones departamentales, asegurando que se aborden los temas pertinentes y se tomen las decisiones necesarias para el buen funcionamiento del departamento académico.
+
+**g) Carácter Consultivo de las Reuniones Departamentales:**
+
+Las temáticas, acuerdos, dificultades, requerimientos y cualquier otro tema discutido durante las reuniones departamentales serán exclusivamente de carácter consultivo para el área académica y/o convivencia escolar.
+
+Las decisiones finales respecto a las materias tratadas en estas reuniones serán responsabilidad del área académica y/o convivencia escolar, correspondiente, tomando en consideración las recomendaciones y aportes realizados por los miembros del departamento.
+
+Esta medida busca asegurar una comunicación efectiva y colaborativa dentro del departamento, promoviendo la participación activa de todos los miembros y garantizando que las decisiones sean tomadas de manera informada y consensuada dentro del marco de las políticas y objetivos institucionales.
+
+## TÍTULO III: DE LA MODALIDAD DE LA INFORMACIÓN A LOS PADRES DE FAMILIA Y /O APODERADOS
+
+### ARTÍCULO 23°
+
+COMUNICACIÓN DE LOS PROCESOS DE EVALUACIÓN DE LOS ESTUDIANTES.
+
+1. En la misma lógica de integración de los padres y apoderados se entregará en el Mes de Marzo y Agosto de cada año, un Cronograma de Evaluaciones, considerado en la Planificación de cada asignatura y su correspondiente Ponderación Académica. La suma de las Ponderaciones, constituirá la Calificación del Semestre.
+
+2. En Reuniones de Padres y Apoderados se entregará un Informe Parcial de Avance donde se consignará las calificaciones y su ponderación a la fecha, asistencia, atrasos, anotaciones de mérito y demérito.
+
+1. Al término del Semestre se entregará un Informe de Desarrollo Personal y Social de cada estudiante, considerando comentarios en el ámbito educacional del Profesor Tutor.
+
+4. El colegio cuenta con una Agenda Electrónica asociada una APPs al celular del apoderado, en la cual se envían comunicaciones en tiempo real, así como también, el apoderado podrá visualizar calificaciones, atrasos, inasistencia, promedios ponderados, mensualidades, etc.
+
+5. Nuestro colegio además cuenta con página web: www.talagantegardenschool.cl Facebook Instagram institucionales y también un correo electrónico: contacto@colegiogarden.cl .
+
+4. La información sobre el aprendizaje escolar de los(as) estudiantes se dará a conocer
+periódicamente a los apoderados y estudiantes mediante: Periódicamente a través de
+actualizaciones de la Agenda Electrónica y la App Lirmi Familia; En reuniones de padres y
+apoderados; entrevistas individuales con el Profesor Tutor; en informes escritos de notas parciales, a lo menos dos en cada semestre; en informes Semestrales Escritos de Notas y de Desarrollo Personal al término de cada semestre; y con la entrega del Certificado anual de estudios, al término del año escolar. No obstante, cualquier otra situación distinta que se presente, el Profesor de cada Asignatura y/o Profesor Tutor, deberán utilizar como canal de comunicación formal con padres y apoderados, la Agenda Electrónica vía Apps o utilizando los talonarios de citación. En situaciones especiales se podrá usar, además, internet en el sistema escolar habilitado para las familias o medio de e-mail y página web.
+
+1. Estas Planificaciones podrán ser ajustadas en marzo, por los docentes en conjunto con la Dirección Académica, de acuerdo a la Evaluación INICIAL que se aplicará la primera semana de marzo a los estudiantes.
+
+10. Al término de cada Semestre Académico, los docentes deberán remitir a la Dirección Académica, el Informe de la Gestión según el formato establecido, el que servirá de base para la readecuación del Plan Anual Estratégico del año en curso de la planificación del 2º Semestre en cada asignatura de aprendizaje y para la elaboración del Informe Anual de Gestión Institucional al término del año, (Memoria), documento obligatorio para la proyección del año siguiente.
+
+## TÍTULO IV: DE LAS CALIFICACIONES
+
+### ARTÍCULO 24°
+
+DEL NIVEL DE EXIGENCIA DE LAS EVALUACIONES (PREMA)
+
+Nuestra Misión nos interpela a desarrollar una gestión educativa de calidad, que inste a los estudiantes a desplegar todas sus competencias, actitudes y valores con trascendencia a su Proyecto de Vida, por esta razón es que se establece que para:
+
+a) Prema de Educación Básica (1° a 8° Básico), el Nivel de Exigencia en las evaluaciones será de un 60% para la nota 4.0.-
+
+b) Prema Educación Media (I a IV Medio), el Nivel de Exigencia en las evaluaciones será de un 60% para la nota 4.0.
+
+### ARTÍCULO 25°
+
+DE LA CALIFICACIÓN EN LA ASIGNATURA DE RELIGIÓN Y ORIENTACIÓN.
+
+1. Las calificaciones de la asignatura de Religión y Orientación NO incidirán en el promedio anual ni en la promoción escolar de los alumnos.
+2. Las asignaturas de Religión y Orientación es obligatoria para todos los estudiantes.
+3. No obstante, lo anterior, los apoderados podrán definir en la asignatura de Religión, si optan o no a la asignatura, de acuerdo a su credo religioso en conformidad a las disposiciones del Mineduc y coherente al Proyecto Institucional del Colegio, al momento de la matrícula.
+4. Nuestro colegio, y de acuerdo con nuestro PEI, dará énfasis en el Humanismo Cristiano basado en la Formación en Valores y la Filosofía con niños.
+5. La evaluación en ambas asignaturas se expresará en conceptos.
+6. Muy bueno
+7. Bueno
+8. Suficiente
+9. Insuficiente
+
+### ARTÍCULO 26°
+
+SOBRE LOS TIPOS DE CALIFICACIÓN Y SU PONDERACIÓN
+
+1. Calificaciones Parciales para el 1° y 2° Semestre
+
+1. La cantidad de calificaciones parciales y las ponderaciones de estas estarán en coherencia con la planificación que para dicha asignatura realice cada docente. Deberá sustentarse en argumentos pedagógicos y se acordarán previamente con el Área Académica, al inicio del año escolar.
+2. Se estima que los docentes deberán dejar todo organizado antes de vacaciones de verano de cada año: Planificación Inversa; Cantidad de Evaluaciones (Formativas y Sumativas); Ponderaciones de las mismas.
+3. En el *mes* de marzo y agosto de cada año académico, será informado a los padres, madres o apoderados el Calendario de las Evaluaciones Programadas para el Año escolar y sus correspondientes Ponderaciones.
+4. No obstante, lo mencionado en el párrafo anterior, durante el transcurso del año escolar, se podrá reajustar este Calendario de Evaluación, ya sea eliminando o agregando evaluaciones, en virtud a los aprendizajes logrados de los estudiantes, lo que será revisado a través de argumentos pedagógicos y técnicos desde la coordinación académica y autorizado por Dirección Académica.
+5. Todo cambio en el Calendario de Evaluaciones deberá ser informado oportunamente a los apoderados vía Agenda Electrónica Lirmi Familia y/o por escrito.
+
+### ARTÍCULO 27°
+
+SOBRE EL REGISTRO DE LAS CALIFICACIONES Y SU PONDERACIÓN:
+
+1. El registro de las calificaciones Parciales Sumativas en el Libro de Clases, se realizará consignando las calificaciones obtenidas, colocando en la parte superior del Casillero la
+Ponderación que cada calificación tendrá en el semestre. (Ver cuadro N°2)
+
+*Cuadro N°4 : Registro de calificaciones y ponderación en el Libro de Clases.*
+
+El libro de clases digital realiza el cálculo automáticamente para ir generando la calificación:
+
+*Cuadro N5: ejemplo de cálculo de la ponderación de cada calificación*
+
+1. El Libro de Clases Digital NO SE REGISTRARÁ LA SUMATORIA DE CADA PONDERACIÓN. El cuadro anterior es solo para ejemplificar como calcula el sistema la sumatoria.
+2. El sistema consignará la SUMATORIA FINAL QUE CONSTITUYE LA NOTA FINAL DEL SEMESTRE.
+3. Para el Registro de las Ponderaciones y su Correspondiente Sumatoria, que dará la Nota Final del Semestre, el colegio ha implementado un Libro de Clases Digital que realizará estos cálculos.
+4. La calificación del Semestre se expresará producto de la suma de las ponderaciones alcanzadas en la asignatura que se traducirá en una Calificación en una Escala Numérica
+de 1.5 a 7.0 en educación Media y de 2.0 a 7.0 en Educación Básica, como se aprecia en el cuadro N° 4.
+
+### ARTÍCULO 28°
+
+SOBRE LA ESCALA DE CALIFICACIÓN SEMESTRAL, FINAL Y ANUAL, SITUACIONES Y
+CONSIDERACIONES ESPECIALES.
+
+1. La calificación, se expresarán en una Escala Numérica, de la siguiente forma:
+
+* 1º básico a 6º básico: De 2.0 a 7.0
+* 7º básico a 4º Medio: De 1.5 a 7.0
+
+1. Se estima que las notas 1,0 a 1,9 en los cursos de 1º a 6º básico y 1,0 a 1,4 de 7º a 4º medio, no favorecen ni colaboran a mejorar los niveles de aprendizaje de los estudiantes, cuando deben subir estas calificaciones, sino que más bien, tienden a mantienen en rangos insuficientes sus logros.
+2. **EL PROMEDIO SEMESTRAL**: Se traducirá como la Suma de las Ponderaciones de cada
+calificación al final de cada semestre, en cada asignatura. Esto se traducirá en una
+calificación, que se expresarán en una Escala Numérica.
+3. SE EXPRESARÁN CON UN DECIMAL Y SE PODRÁ APROXIMAR A LA DÉCIMA SUPERIOR.
+4. **EL PROMEDIO FINAL SEMESTRAL**: Corresponde al Promedio Aritmético de cada
+Semestre Académico (1° y 2° Semestre) en cada Asignatura.
+5. SE EXPRESARÁ CON UN DECIMAL Y SIN APROXIMACIÓN.
+6. La calificación mínima de aprobación en cada asignatura es 4.0 (cuatro).
+7. **EXAMEN ESPECIAL A FINAL DEL AÑO**: En caso de que un alumno obtenga una calificación final anual inferior al 4.0, y en conformidad a lo establecido en el Artículo 10° y 11° del Decreto 67/2018, se le otorgará la posibilidad de Rendir una Evaluación en la que se considere las unidades más relevantes tratadas en la asignatura. Esta evaluación tendrá una Ponderación del 30% anual y el Promedio Final Anual del 1° y 2° semestre tendrá una Ponderación del70%, el cual se Ponderará con el Examen rendido, entregando la calificación final de la asignatura.
+8. Se elaborará un temario y cronograma para ser tomada, el cual será
+informado al apoderado y al estudiante previamente.
+9. Características del examen:
+10. Puntaje total 30 puntos.
+11. Ítem de selección única: 21 preguntas con valor de 1 punto cada una.
+12. Ítem de desarrollo: 3 preguntas con valor de 3 puntos c/u (total 9 puntos) .
+13. Se deberá considerar incluir una Rúbrica para el Item de Desarrollo en el mismo examen.
+14. Cualquier situación no contemplada en los puntos anteriores será la Dirección Académica en conjunto con la Coordinación Académica del nivel, la instancia resolutiva.
+15. Los Estudiantes Evaluados En Forma Diferencial que se encuentren en dicha
+situación, también deberán rendir esta prueba, de acuerdo a dispuesto en este
+reglamento bajo supervisión de la Educadora Diferencial y/o la Unidad Psico-Social
+en coordinación con el coordinador académico del nivel y **realizando las Adaptaciones Curriculares pertinentes en cada caso.**
+16. **SITUACIÓN DE CALIFICACIÓN 3.9 ANUAL**: Cuando el estudiante obtenga como
+promedio anual entre 3,85 y 3,94 y ello incide en su promoción, se procederá como se indica en el Artículo 28° Número 6 (Deberá rendir Examen Especial con un 30% de ponderación).
+17. **EL PROMEDIO GENERAL ANUAL**: Corresponderá al promedio aritmético de las calificaciones finales de todas las asignaturas del Plan de estudio.
+18. SE EXPRESARÁ CON UN DECIMAL Y SIN APROXIMACIÓN.
+
+### ARTÍCULO 29°
+
+CALIFICACIONES Y APRENDIZAJES ALCANZADOS.
+
+Las calificaciones podrán referirse al aprendizaje alcanzado, en las áreas definidas en el Plan de Estudio y a aspectos de la Formación Valórica y no a comportamientos o incumplimiento de labores escolares.
+
+No obstante, lo anterior, habiendo salvo guardado todas las medidas y mecanismos que se dispongan para evaluar los aprendizajes de los estudiantes, se exceptúan a esta norma, las consideraciones referidas en el Artículo 21 de este Reglamento.
+
+### ARTÍCULO 30°
+
+EVALUACIONES DE CURSOS CON RESULTADOS INFERIORES 4.0
+
+1. Las evaluaciones que se encuentren entre un 15% y 19,9% de notas insuficientes en un curso podrán ser registradas en el Libro de Clases Digital, pero solo cuando el profesor haya entregado al Coordinador de nivel, las remediales que se aplicarán, las que serán supervisadas por éste.
+2. Cuando en una evaluación las calificaciones inferiores a 4.0 afecten entre el 20 % al el 49% del total de estudiantes de un curso, el profesor de la asignatura deberá informarlo a la Dirección Académica y/o a los Coordinadores Académicos de cada nivel y al Profesor Tutor del curso y NO se podrá registrar las notas al libro de clases, hasta definir:
+3. Un análisis del instrumento aplicado, con el objeto de evaluar o aplicar las remediales que sean necesarias para que los estudiantes alcancen los aprendizajes esperados en conjunto con la Coordinación Académica o Dirección Académica.
+4. Los remediales que serán acordados con el docente. Siempre se deberá considerar dentro de las remediales instancias de Retroalimentación de los aprendizajes de los estudiantes.
+5. Los(as) estudiantes que en la primera evaluación obtuvieren resultados superiores a 4.0, podrán libremente, optar por esta segunda evaluación. La nota a registrar, en este caso, será la más alta.
+6. La autorización de colocar las calificaciones inferiores a 4.0 por sobre el 20%, es de la Dirección Académica y/o podrá ser delegado en los coordinadores de nivel, tomando en consideración todas las remediales, retroalimentación y otros mecanismos que se estimen necesario para asegurar los aprendizajes de los estudiantes.
+7. No está autorizado a los docentes, bajar el porcentaje de exigencia y/o la escala de puntos, con el objetivo para mejorar las calificaciones y que no refleje los aprendizajes de los estudiantes, de en ningún tipo de evaluación. No obstante, lo anterior, la Dirección Académica, evaluado los antecedentes y a la luz de los objetivos de aprendizaje, podrá excepcionalmente autorizar consignar porcentajes menores con un tope del 50% de logro
+de Prema.
+8. En caso que esta situación se reitere en un curso, afectando a más de una asignatura, el Profesor Tutor, profesores de las disciplinas involucradas, junto con el área académica en un plazo no superior a 10 días hábiles, citarán a los apoderados de los(as) estudiantes afectados, para generar, en forma conjunta, estrategias para superar los rendimientos deficitarios. De ser necesario se colocará en el libro de clases la última evaluación rendida
+por los estudiantes.
+
+### ARTÍCULO 31°
+
+PONDERACIONES DE LAS EVALUACIONES EN CADA SEMESTRE.
+
+1. Durante el transcurso de cada Semestre se elaborará un Calendario Evaluaciones Sumativas en el cual se definirá la Ponderación de cada Evaluación, lo que deberá ser coherente con la planificación y en base una reflexión pedagógica previa de parte del
+docente de asignatura en conjunto con la Jefe Técnico.
+2. Este calendario de evaluaciones semestrales no necesariamente podrá ser rígido, por lo cual podrá dejarse espacio para reemplazar o agregar calificaciones, si se identificará una necesidad de recoger nueva evidencia del aprendizaje de un estudiante o grupo, siempre con un sustento pedagógico y siendo acordado previamente con el área académica del colegio. Las ponderaciones podrán ser reasignadas para tal efecto, para alcanza el 100% en cada semestre.
+3. Aquellas calificaciones con ponderaciones entre el 25% y el 30%, deberán considerar los aprendizajes esperados más relevantes de las Unidades Planificadas dentro del Semestre.
+4. Para definir las Porcentaje de las Ponderaciones se deberán usar los siguientes criterios, cuando corresponda:
+5. **Relevancia:** Dar mayor ponderación a aquella evidencia que represente
+aprendizajes más relevantes. Estos aprendizajes, en coherencia, se debieran
+enfatizar en mayor medida durante los procesos de enseñanza -aprendizaje.
+6. **Integralidad**: Dar mayor ponderación a evidencia más comprehensiva o integral por sobre aquella más parcial o que refiere a aspectos, específicos, es decir, evidencia que represente el aprendizaje que se evalúa en su globalidad integrando sus distintas dimensiones o bien que considere varios aprendizajes en un desempeño.
+7. **Temporalidad**: En aquellos casos en que el aprendizaje evaluado tiene carácter progresivo, dar mayor ponderación a las últimas evaluaciones, es decir, más recientes del aprendizaje, dado que el estudiante podría evidenciar logros que representarían su nivel de aprendizaje de mejor forma que en evaluaciones previas.
+8. No obstante, lo anterior, como se señala en la normativa, ninguna evidencia recogida a través de un único método y en un momento específico, debe ser ponderada con más del 30% en la calificación final semestralmente.
+
+### ARTÍCULO 32°
+
+DEL REGISTRO DE LAS CALIFICACIONES.
+
+1. Los resultados de los procedimientos evaluativos deberán ser registrados en los libros de clase:
+
+* Con color azul en el libro digital, las notas superiores a 4.0
+* Con color rojo en el libro digital, las notas las inferiores a 4.0
+
+1. En los Libros de Clases y/o Libro Digital que lo reemplace, las calificaciones deben quedar registradas en un plazo máximo de 08 días (hábiles), después de aplicada la evaluación, por parte del docente.
+2. Los docentes tendrán acceso al libro de clases digital, donde podrán llevar el Registro de sus Calificaciones, adicionalmente el colegio entregará una Agenda Docente para que puedan llevar en forma ordenada y aparte sus evaluaciones y registros correspondientes con sus correspondientes Ponderaciones, el cual será de su responsabilidad mantener como respaldo, al día.
+3. Los estudiantes y apoderados de Primero Básico a Cuarto medio, tendrán derecho a revisar los instrumentos de evaluación dentro de un plazo no superior a 48 horas hábiles después de publicada en el Libro de Clase la calificación. En el caso de tener alguna observación, el apoderado deberá enviar una comunicación al profesor de asignatura en la agenda del estudiante, para ser citado.
+4. Calificaciones Acumulativas: corresponden a trabajos y/o actividades realizadas en clases y que tienen una fecha y hora única de entrega. Se podrá calificar la revisión de tareas, dictados, Hacer Ahora, Ticket de Salida, Carpetas, Trabajos, Guías de Ejercicios y Lecturas Complementarias, entre otros, con nota Acumulativa De Proceso (Evaluación Formativa), que podrá traducirse en una calificación parcial, con una ponderación máxima dentro de cada semestre de un 10%.
+
+### ARTÍCULO 33°
+
+DE LA EVALUACIÓN DE LOS TALLERES QUE COMPLEMENTAN LA JORNADA ESCOLAR COMPLETA EN LOS DIFERENTES NIVELES.
+
+1. Los Talleres que complementen el Proyecto Educativo Institucional, que se consideren dentro del Plan de Estudio del Colegio Talagante Garden School, aplicarán el mismo sistema de evaluación y calificación estipulado en este Reglamento.
+2. La calificación resultante en cada Semestre, en los Talleres, tendrá una Ponderación máxima de un 15%. El cual deberá ser informado al principio de cada año escolar.
+3. Se consignarán en la Asignatura Afín al taller respectivo. La asignatura a fin por tanto tendrá una ponderación del 85% semestral.
+
+|  |  |
+| --- | --- |
+| **TALLER 15%** | **ASIGNATURA A FIN 85%** |
+| Taller de Filosofía de 7º a II medio | HISTORIA |
+| Taller de PAES Lenguaje 3º y 4ºmedios | LENGUAJE |
+| Taller de PAES Matemática 3º y 4ºmedios | MATEMÁTICA |
+| Taller de PAES de Historia 3° y 4°medios | HISTORIA |
+| Taller de PAES de Ciencias 3° y 4°medios | QUÍMICA |
+| Talleres de SIMCE Lenguaje 8° y II medio | LENGUAJE |
+| Talleres de SIMCE Matemática 8° y II medios | MATEMÁTICA |
+| Talleres de SIMCE Historia 6°, 8° y II medio | HISTORIA |
+| Taller SIMCE Ciencias 6°, 8°y II medio | BIOLOGÍA |
+
+1. Se podrán modificar los Talleres cada año escolar, asignando o eliminando
+talleres, dependiendo de las Evaluaciones SIMCE, Cambios en la PAES, modificaciones en las Bases Curriculares y Planes y Programas de Estudio, Proyecto Educativo, etc.
+2. En el primer y segundo semestre se aplicarán, Mediciones de Dominio Lector, APTUS o Ensayos de Simce, Cálculo Mental, todas estas consideradas dentro de los Programas de trabajo determinadas por Dirección Académica y PODRÍAN ser evaluadas con una nota parcial acumulativa por semestre a el Taller de la asignatura afín, LO QUE SE DEFINIRÁ CADA AÑO.
+
+### ARTÍCULO 34°
+
+SOBRE LAS CALIFICACIONES Y PROCEDIMIENTOS DEL PLAN DE FORMACIÓN
+GENERAL - PLAN DE FORMACIÓN DIFERENCIADA HUMANÍSTICO -CIENTÍFICO, PARA III Y IV AÑOS MEDIOS.
+
+1. Los estudiantes de IIIº y IV medio incorporarán a su Plan de Formación General de Estudio un plan de Asignaturas Optativas en tres áreas o Disciplinas (A, B y C).
+2. Los estudiantes deberán elegir tres asignaturas de profundización por nivel, con una duración semanal de seis horas cada una.
+3. El establecimiento deberá ofrecer un mínimo de seis asignaturas de profundización en cada nivel, de un total de 27 posibles, resguardando que la oferta de asignaturas considere los intereses de los estudiantes, carga horaria, infraestructura, competencias de los profesionales, entre otras.
+4. Para ello, se deberá generar un sistema mediante el cual los estudiantes puedan expresar su opinión acerca de las asignaturas que se vinculan de mejor manera a dichos intereses y a sus proyectos de vida, de manera previa a la publicación de la oferta de asignaturas (normalmente durante el Segundo Semestre de 2° año medio, por parte del Área Académica y el Coordinador de Ed. Media).
+5. El establecimiento debe garantizar que cada año los estudiantes tengan la posibilidad de escoger tres asignaturas de un total de mínimo seis; es decir, si en un año, para 3° y 4° medio se ofrecen seis asignaturas, al año siguiente se deben ofrecer seis asignaturas distintas a las del año anterior, a no ser que se mantenga el interés por una o más asignaturas ofrecidas en años anteriores.
+6. La oferta de asignaturas de profundización deberá garantizar que, al menos, dos de las siguientes tres áreas sean cubiertas:
+
+* Área A. Lengua y Literatura, Filosofía, Historia, Geografía y Ciencias Sociales
+* Área B: Matemática, Ciencias
+* Área C: Artes y Educación Física y Salud
+
+1. Los estudiantes pueden cursar asignaturas de diferentes áreas durante los dos años del ciclo.
+2. ES IMPORTANTE MENCIONAR QUE: La organización de los grupos para impartir estas asignaturas dependerá de los Recursos de Infra Estructura y Profesionales con que cuente el establecimiento, pudiendo organizarlos por nivel; es decir, que se formen grupos diferentes para estudiantes de 3° y 4° Medio, o bien, que se formen grupos con estudiantes de ambos niveles.
+3. Los cambios de un Área o Disciplina a otra se podrán efectuar hasta la tercera semana de marzo de cada año, previa autorización de la Dirección Académica y bajo el visto bueno del Coordinador de Ed. Media. La solicitud podrá elevarse sólo una vez en cada año académico.
+
+### ARTÍCULO 35°
+
+DE LOS TRABAJOS O TAREAS
+
+1. Cada Asignatura podrá solicitar 1 trabajo de investigación o de profundización por semestre, pudiendo tener como ponderación máxima de un 15%.
+2. La ponderación deberá estar ajustada a los tres aspectos mencionados en este Reglamento: Relevancia, Integralidad y Temporalidad.
+3. Los trabajos deberán cumplir como mínimo con: portada, índice, Introducción, Desarrollo, Conclusión, Bibliografía y Webgrafía.
+4. Debe ser presentado con letra legible, limpieza, orden, corrección ortográfica y redacción adecuada al nivel. Deberá ser presentado en hoja de oficio cuadriculada. En caso contrario el profesor puede exigir que el alumno o alumna lo rehaga hasta que cumpla con los requisitos señalados, indicando fecha de entrega y los nuevos parámetros a evaluar, se
+deberá asignar un porcentaje del puntaje total de la prueba a estos aspectos. El profesor decidirá si este se entrega en forma manuscrita o impreso.
+5. En todo trabajo de investigación además de los aspectos antes mencionados y los propios de la asignatura, el Profesor deberá considerar los siguientes criterios:
+
+* Establecer previamente objetivos claros y precisos,
+* Presentar a los alumnos el puntaje, la ponderación y la rúbrica de evaluación. Proporcionar bibliografía suficiente y adecuada
+* Exigir elaboración personal del alumno y no aceptar transcripciones, fotocopias del contenido de textos o copias textuales de páginas de Internet.
+
+1. Exigir el registro de las direcciones de Internet o bibliografía consultada y si existe plagio el alumno o alumna deberá dar una DEFENSA ORAL DE SU INVESTIGACIÓN.
+2. **CARACTERÍSTICA DE LAS TAREAS:**
+
+* Los docentes podrán enviar Tareas **CORTAS Y BREVES**, que permitan que el estudiante las pueda realizar de manera autónoma en no más de 30 minutos.
+* El concepto de las tareas al hogar debe fomentar y mantener hábitos de estudio y pequeñas retroalimentaciones, refuerzo, donde el estudiante en forma independiente pueda desarrollarlas en un período corto de tiempo. Esto porque nos encontramos en un Régimen de JECD.
+
+1. Toda tarea al hogar **deberá ser revisada por el docente** y podrá constituir una calificación acumulativa que se traduzca en una nota sumativa del semestre.
+2. De ser necesario, el docente deberá realizar retroalimentación de las mismas, cuando verifique que los aprendizajes no han sido alcanzados.
+3. **TRABAJOS GRUPALES** **FUERA DEL HORARIO DE CLASES:**
+4. Por asignatura, sólo podrán ser, no más de 1 por año Académico. Esto último porque el colegio asume a través de la JECD la mayor parte de las actividades de aprendizaje de los estudiantes (siendo el trabajo en equipo una competencia que se debe enseñar, los trabajos en grupos se deben dar en su mayoría en el espacio lectivo de las clases).
+5. Todos los cursos deben contar con un **CALENDARIO DE EVALUACIÓN EN SUS SALAS POR MES Y LOS DOCENTES DEBERÁN AJUSTAR** las Evaluaciones, Trabajos, Tareas o cualquier actividad evaluada, para evitar SOBRE-EVALUAR a los estudiantes cumpliendo con las disposiciones del presente Reglamento de Evaluación.
+
+## TÍTULO V: DE LA PROMOCION
+
+### ARTÍCULO 36°
+
+DE LAS EXIGENCIAS Y REQUISITOS PARA LA PROMOCIÓN DE CURSO.
+
+1. El Decreto de Evaluación 67/2018 define promoción escolar como la acción mediante la cual el estudiante culmina favorablemente un curso, transitando al curso inmediatamente superior o egresando del nivel de educación media.
+2. Para la promoción de los estudiantes de 1° básico a 4° medio, se considerarán conjuntamente el logro de los objetivos de aprendizaje de todas las asignaturas de sus respectivos planes de estudio, que incidan en su promoción y la asistencia a un mínimo de 85% de las clases realizadas.
+
+### ARTÍCULO 37°
+
+REQUISITOS DE RENDIMIENTO PARA LA PROMOCIÓN RESPECTO DEL LOGRO DE
+OBJETIVOS DE APRENDIZAJE.
+
+Serán promovidos de curso los estudiantes de 1°Básico a IVº de Educación Media que:
+
+1. Hubieren aprobado todas las asignaturas, en sus respectivos planes de estudio.
+2. Habiendo reprobado una asignatura, su Promedio General Final Anual, corresponda a un promedio mínimo de 4.5, incluido la asignatura reprobada.
+3. Habiendo reprobado dos asignaturas, su Promedio General Final Anual,
+corresponda a un promedio mínimo de 5.0, incluido las asignaturas reprobadas.
+4. Por resolución exenta N°1.856 del 15 de julio de 2016, donde se aprueban Planes y Programas Propios en Inglés, el promedio anual obtenido en la **ASIGNATURA DE INGLÉS PARA 1° A 4° BÁSICO, INCIDIRÁ EN LA PROMOCIÓN DE LOS ESTUDIANTES.**
+
+### ARTÍCULO 38°
+
+DE LOS REQUISITOS DE ASISTENCIA PARA LA PROMOCIÓN DE CURSO.
+
+1. Para ser promovidos de curso, los alumnos deberán tener un porcentaje igual o superior a un 85% de las clases, establecidas por el Calendario Escolar Anual.
+2. Para estos efectos, se considerará como **asistencia regular** la participación de los alumnos en eventos previamente autorizados por el establecimiento, sean nacionales o internacionales, en el área del deporte, la cultura, la literatura, las ciencias y las artes.
+3. En casos calificados, el Director del establecimiento en conjunto con la Dirección
+Académica y habiendo previamente consultado al Profesor Tutor, podrá autorizar la promoción de estudiantes con porcentaje menor de la asistencia exigida y cuyos rendimientos académicos garanticen que está capacitado académicamente para el siguiente nivel.
+4. Causas Justificadas:
+5. Una primera causa justificada corresponde a la imposibilidad de asistir al colegio por enfermedad. Este caso debe estar debidamente acreditado con certificados médicos que lo respalden.
+6. Una segunda causa justificada corresponde a la imposibilidad de asistir al colegio por viaje, intercambio, pasantía u otra causa justificada, que se prolongue por un período mayor a 30 días.
+7. En el caso que un estudiante se encuentre en una situación de causa justificada, el Equipo Directivo del establecimiento educacional deberá informar al apoderado para que éste, dentro del menor tiempo posible, acredite la causa justificada de las reiteradas ausencias del alumno y presente sus fundamentos para que su hijo sea promovido para el siguiente año.
+8. Sin perjuicio de lo señalado en los Artículos 37° al 38°, el Director en conjunto con la Dirección Académica y el Equipo Directivo, deberán analizar la situación de aquellos alumnos que NO cumplan con los requisitos de promoción antes mencionados o que presenten una calificación de alguna asignatura que ponga en riesgo la continuidad de sus aprendizajes en el curso siguiente, para que, de manera fundada, se tome la decisión de Promoción o Repitencia de estos estudiantes.
+9. Se entenderá LA REPITENCIA como una medida excepcional.
+10. La decisión de Repitencia tendrá un proceso deliberativo de carácter pedagógico, basado en la Información recogida en distintos momentos y obtenida de diversas fuentes, considerando la visión del estudiante su familia u apoderado, respecto del proceso vivido por el estudiante durante el año, de manera contar con la opinión de los padres o apoderados y del estudiante, respecto de la decisión de promoción o Repitencia.
+11. El proceso de toma de decisión sobre la promoción o Repitencia, que el Decreto 67/2018 promueve, es que los estudiantes que NO CUMPLAN con los requisitos de Calificaciones y de Asistencia, **NO REPETIRÁN AUTOMÁTICAMENTE**, sino que pasarán a estar en **“SITUACIÓN DE RIESGO DE REPITENCIA”,** implicando un Proceso de Análisis de todos los que hayan estado involucrados directamente el proceso formativo del estudiante, donde se deberá considerar aspectos pedagógicos y socioemocionales, que salvo guarde las futuras oportunidades de aprendizaje y su bienestar personal (Decreto 67 artículo 11, letras a,b,c)
+12. En caso de estudiantes con Situación de Riesgo de Repitencia, se deberá elaborar un Informe desde el Área Académica, en colaboración con el Profesor Tutor, el Programa PROAT (Programa de Acción Tutorial) a cargo de la Unidad de Formación y Académica y otros profesionales de apoyo del
+Establecimiento, que hayan participado del proceso de aprendizaje del estudiante. El Informe, individualmente para cada estudiante, deberá considerar, a lo menos, los siguientes criterios pedagógicos y socioemocionales:
+13. El progreso en el aprendizaje que ha tenido el alumno durante el año
+académico.
+14. La magnitud de la brecha entre los aprendizajes logrados por el estudiante y
+los logros de su grupo curso, y las consecuencias que ello pudiera tener para
+la continuidad de sus aprendizajes en el curso superior.
+15. Consideraciones de orden socioemocional, que permitan comprender la
+situación del estudiante y que ayuden a identificar cuál de los dos cursos sería
+más adecuado para su bienestar y desarrollo integral.
+16. El contenido del informe mencionado anteriormente en el punto 19, deberá quedar consignado en la Hoja de Vida del Estudiante.
+
+**PROAT TGS**
+
+1. La situación final de promoción de los estudiantes deberá quedar resuelta al término de cada año escolar. Una vez finalizado el proceso, el colegio emitirá un certificado anual de estudios, que indique las asignaturas cursadas, con las calificaciones obtenidas y la situación final correspondiente, el que se mantendrá en las carpetas de cada estudiante hasta su retiro oficial del establecimiento. Este certificado, por ningún motivo, podrá ser retenido por el colegio.
+2. Sobre la Comunicación de la decisión al estudiante y su apoderado:
+3. El establecimiento educativo -a través del profesor tutor o quien el Equipo Directivo determine- comunicará al estudiante y/o su apoderado la decisión tomada respecto a la repitencia o promoción de su pupilo, explicitando los criterios y las consideraciones que avalaron esta decisión y los apoyos que recibió el estudiante durante el año.
+4. También se informarán las medidas de acompañamiento previstas para el estudiante (promovido o repitente), identificando las áreas de aprendizaje que requerirán apoyo, y los lineamientos generales que orientarán dicho acompañamiento del año siguiente.
+5. Estas medidas tendrán un carácter confidencial y sólo se compartirán entre los profesionales que estarán involucrados en su implementación
+6. Una vez aprobado un curso, el estudiante no podrá volver a realizarlo, ni aun cuando éstos se desarrollen bajo otra modalidad educativa.
+7. El rendimiento escolar de un estudiante no será obstáculo para la renovación de su matrícula, y tendrá derecho a repetir curso en un mismo establecimiento a lo menos en **una oportunidad en la educación básica y en una oportunidad en la educación media.**
+8. La Licencia de educación media permitirá optar a la continuación de estudios en la Educación Superior.
+
+### ARTÍCULO 38°
+
+ACTAS DE REGISTRO DE CALIFICACIONES Y PROMOCIÓN ESCOLAR
+
+1. Actas de registro de calificaciones y promoción escolar Las Actas de Registro de Calificaciones y Promoción Escolar serán confeccionadas de acuerdo a las instrucciones del Sistema de Información General de Estudiantes (SIGE).
+2. El Acta de Registro de Calificaciones y Promoción Escolar consignará en cada curso:
+3. la nómina completa de los estudiantes matriculados y retirados durante el año,
+4. Número de la cédula nacional de identidad o el número del identificador provisorio escolar,
+5. Calificaciones finales de las asignaturas o módulos del plan de estudios
+6. El promedio final anual,
+7. El porcentaje de asistencia de cada alumno, y
+8. La situación final correspondiente.
+9. Las actas deberán ser generadas por medio del sistema de información del Ministerio de Educación disponible al efecto y firmadas solamente por el director del establecimiento
+
+## TÍTULO VI: MEDIDAS DE ACOMPAÑAMIENTO PEDAGÓGICO
+
+### ARTÍCULO 39°
+
+SOBRE LAS MEDIDAS DE ACOMPAÑAMIENTO PEDAGÓGICAS IMPLEMENTADAS.
+
+1. Nuestro colegio, desde el año 2019, ha implementado un Programa de Acompañamiento Pedagógico, Socio-Emocional, denominado PROAT (Programa de Acción Tutorial) que busca entregar un acompañamiento pedagógico y socioemocial a nuestros estudiantes que lo requieran.
+2. El Programa PROAT, pretende:
+3. **Prevenir las dificultades de los estudiantes:** fortaleciendo los procesos de
+enseñanza aprendizaje de alta calidad que ayuden a progresar a una amplia
+diversidad de estudiantes, así como desarrollar habilidades para monitorear
+los aprendizajes y tomar decisiones pedagógicas oportunas.
+4. **Incorporar programas** que promuevan aprendizajes tempranos fundamentales, por ejemplo, el fortalecimiento de la educación básica inicial la lectura temprana o el fomento lector o cálculo mental, entre otros.
+5. **Monitorear, identificar y apoyar tempranamente** a los estudiantes con
+dificultades: Para ello, en primera instancia, se requiere fortalecer la
+evaluación que se realiza al interior de las aulas como una forma de ir
+diagnosticando, monitoreando y acompañando a cada estudiante en el
+desarrollo de su aprendizaje e ir obteniendo evidencia confiable que sustente
+la toma de decisiones pedagógicas más informada y a tiempo. Responder a
+esta realidad de buena forma requiere desarrollar estrategias pedagógicas
+diversificadas. La diversificación consiste en variar la enseñanza, el ambiente
+de aprendizaje y la evaluación de un modo sensible a estas diferencias
+existentes en el curso. Esto no implica personalizar la enseñanza, sino poder
+generar alternativas para grupos de estudiantes, variando la forma de
+acceder al contenido, de aprender sobre él o de mostrar que se aprendió
+6. **Promover** (a los estudiantes en riesgo de Repitencia) con acompañamiento
+focalizado, y monitoreado: el acompañamiento pedagógico, cómo forma de
+implementación de estas medidas puede tomar múltiples formas, consistiendo en, por ejemplo, una tutoría realizada por un par en alguna asignatura específica, apoyo individual o colectivo de un asistente de la educación en el aula, diversificación de actividades de aprendizaje y/o evaluación, derivación a apoyo psicosocial externo o interno, planificaciones ajustadas a sus necesidades, trabajo focalizado en su curso para abordar situaciones sensibles, entre otras.
+
+### ARTÍCULO 40°
+
+SOBRE LA CONDICIONALIDAD ACADÉMICA
+
+Se encuentran en esta situación los estudiantes que:
+
+* 1. Estudiantes que hayan Repetido Curso.
+2. En caso de tener una o más asignaturas deficientes o menores a un 4.0 en cualquier semestre.
+3. En caso de no superar las dificultades luego de estar 1 semestre en Seguimiento.
+
+Frente a las Acciones que se tomarán cuando un Estudiante quede con una Condicionalidad Académica, habrá :
+
+**Compromiso del Colegio:**
+
+1. Citas a entrevista con el Profesor(a) tutor(a) tanto el apoderado como al
+alumno para evaluar su proceso de crecimiento en el área tratada.
+2. Solicitar informes de avance de especialistas externos que atiendan la
+problemática del alumno.
+3. Evaluación de los estados de avance por parte de la Orientador y/o Coordinador Académico de nivel ( Incorporarlo al Programa PROAT).
+4. Evaluar semestralmente la situación del alumno(a).
+
+**Compromiso del alumno**:
+
+1. Aceptar conscientemente, que debe superar la causa que definió la
+Condicionalidad.
+2. Asistir, a todas las entrevistas que requiera la Unidad de Convivencia
+Escolar y/o la orientador a fin de hacer efectiva una evaluación y auto
+evaluación del proceso.
+3. Asistir regularmente a clases.
+4. Superar la Condicionalidad Académica dentro del año.
+
+**Compromiso de la Familia:**
+
+1. Asistir a todas las entrevistas citadas por Profesor Tutor.
+2. Respetar y aceptar las decisiones o resoluciones de la Unidad de Formación- Orientación y del PROGRAMA PROAT, Dirección Académica, Consejo de Profesores y Directora frente a situaciones preventivas para el mejoramiento del rendimiento del alumno(a).
+3. En el caso de no aceptar ni respetar las decisiones, el Colegio aplicará sanciones disciplinarias que podría llegar a la Cancelación de la Matrícula para el año siguiente.
+4. Si las dificultades ameritan un tratamiento especializado, externo al establecimiento Neurólogo, Psicólogo, Fonoaudiólogo, Psicopedagogo, etc., el apoderado deberá asumir dicho tratamiento y hacer entrega de los informes extendidos por el especialista.
+
+**VII.-CONSIDERACIONES FINALES:**
+
+### ARTÍCULO 41°
+
+DE LAS SALIDAS A TERRENO
+
+1. Las salidas a terreno o visitas pedagógicas deben ser solicitadas a través de un Formulario de Salidas Pedagógicas y entregado a la Dirección Académica con 15 días hábiles de anticipación presentando la planificación a realizar: fecha, hora, lugar, objetivos, contenidos afines y actividad a realizar.
+
+2. Adicionalmente el colegio cuenta con un Reglamento de Salidas Pedagógicas, el cual debe ser conocido por todos los docentes.
+
+### ARTÍCULO 44°: DISPOSICIONES FINALES
+
+1. **Principio de no discriminación:**
+
+Todas las disposiciones del Reglamento, así como también los mecanismos de resolución de las situaciones especiales mencionadas y las decisiones de cualquier otra especie tomadas en función de éstas, no podrán suponer ningún tipo de discriminación arbitraria a los integrantes de la comunidad educativa, conforme a la normativa vigente.
+
+1. **Revisión anual del reglamento vigente:**
+2. A nivel Fundacional, en diciembre de cada año se designará una comisión integrada por directivos y jefes departamentales, con el objetivo de incorporar las modificaciones (de ser necesarias) de acuerdo a la normativa vigente.
+3. Todas las modificaciones realizadas entrarán en vigencia una vez informadas y difundidas a la comunidad escolar, a excepción de aquellas que respondan al cumplimiento de una obligación legal, las que se entenderán por vigentes al momento de su realización.
+4. **Comunicación del Reglamento de Evaluación y/o sus modificaciones:**
+5. Los medios de difusión que se han dispuesto para el Reglamento de Evaluación y sus respectivas modificaciones son los siguientes:
+
+* Será presentado al Consejo Escolar a inicios del año lectivo (mes de marzo).
+* Será informado y difundido a los apoderados y estudiantes por medio de la primera reunión de apoderados del colegio a los apoderados, cuya recepción y toma de conocimiento quedará registrada mediante la firma correspondiente.
+* Una copia del Reglamento estará disponible en secretaría de dirección del colegio, para la consulta de los estudiantes, padres y apoderados y comunidad educativa en general.
+* Se publicará en la página web del Colegio.
+* Será dado a conocer al Consejo Escolar en el mes de marzo de cada año.
+* El presente reglamento deberá ser comunicado oportunamente a la comunidad educativa al momento de efectuar la postulación al establecimiento educacional o, a más tardar, en el momento de la matrícula.
+* Las modificaciones y/o actualizaciones serán informadas a la comunidad escolar por su publicación en la página web del establecimiento educacional y presentadas ante la Dirección Provincial de Educación respectiva.
+* El reglamento será cargado al Sistema de Información General de Estudiantes -SIGE- o aquel que el Ministerio de Educación disponga al efecto
+
+### ARTÍCULO 45°
+
+SITUACIONES NO PREVISTAS
+
+Será el Director del establecimiento, quien deberá resolver en última instancia las situaciones especiales de evaluación y promoción escolar, como también toda situación no prevista en el presente Reglamento, dentro del período escolar correspondiente, previa consulta al Consejo de Profesores y cuando corresponda, con consulta al Departamento Provincial Correspondiente y la Secretaría Ministerial de Educación
+
+Comuníquese, publíquese y archívese.
+
+**DIRECCIÓN ACADÉMICA TGS DIRECCIÓN COLEGIO TGS**
+
+**Instancias de Difusión:**
+
+Reuniones durante el 1° semestre 2024 con Jefes de Dptos.;
+
+Correos electrónicos institucionales
+
+Consejo Docente Marzo 2024;
+
+Consejo Escolar 1° semestre 2024;
+
+Página Web del Colegio, marzo 2024, SIGE.
+
+1. Orientaciones para la implementación del Decreto67/20018. Unidad de Currículum y Evaluación. [↑](#footnote-ref-1)
